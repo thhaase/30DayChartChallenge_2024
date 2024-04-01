@@ -1,0 +1,581 @@
+Nachname,Vorname,Geschlecht,Geburtsdatum,Geburtsort,Wohnort,Ortswechsel_n,Schulabschluss,Lehrberuf,aktueller Beruf,Beruf Vater,Einstellung Elternhaus,Anzahl Geschwister,Arbeitsstatus,Arbeitslos nach 29,Berufswechsel_n,Arbeitsstättenwechsel_n,Familienstand,Kinderanzahl,Religion,Mitgliedsnummer,Beitrittsdatum,Parteimitgliedschaft vor NSDAP,Erster Kontakt mit NSDAP durch,Arbeitsstatus bei Beitritt,Kriegsveteran,Kriegsverletzung,Teilnahme an militärischen Aktivitäten nach Krieg,Handschriftlich,Fehlende Worte,BriefID
+Franz,Armin,männlich,21.12.1879,,Berlin ,keiner,Volksschule,Postbeamter,Postbeamter,,,,arbeitslos,ja,,,,,,80500,1925,,Propagandamaterial,,,,,nein,0,236940
+Seyffardt,Ernst,männlich,13.04.1888,Köln,Duisburg,mehr als 3,Volksschule,Drogist,Drogist,Eisenbahnbeamter,,5,in Arbeit,nein,keiner,keiner,verheiratet,,evangelisch,149573,1928,DNVP,,in Arbeit,,,,nein,0,236298
+Ullein,G,männlich,01.03.1907,Tilsit,Korschen,mehr als 3,Einjähriges,Kaufmann,Bankkaufmann,,,,in Arbeit,ja,mehrmals,mehrmals,,,,10980,1925,DNVP,,,nein,nein,,nein,0,236692
+Anschütz,A ,männlich,25.08.1903,Pirmasens,Pirmasens,unter 3,Volksschule,Schlosser,Schlosser,Sattlermeister,,,in Arbeit,ja,keiner,mehrmals,,,,,1924,SPD,,in Arbeit,nein,nein,ja,nein,0,239337
+Knell,A,männlich,04.02.1902,Kirchheimbolanden,Kirchheimbolanden,unter 3,Technikum,Bauingenieur,Bauingenieur,Schreiner,,,in Arbeit,nein,,,,,,,1927,,Kamerad,in Arbeit,nein,nein,ja,ja,0,239403
+Mahringer,Anton,männlich,12.07.1891,Büfing,Büfing,unter 3,Volksschule,Landwirt,,Landwirt,,8,,,mehrmals,mehrmals,verheiratet,2,,,1930,,,,ja,nein,nein,ja,0,239584
+Melster,Alwin,männlich,30.04.1900,Chursdorf,Neudamm,unter 3,Volksschule,Verwaltungsangestellter,Maschinenmeister,Landwirt,,,in Arbeit,ja,mehrmals,mehrmals,,,evangelisch,,1930,Jugendschar,,,ja,nein,nein,ja,0,239651
+Rahmul,K,männlich,24.04.1904,Bublitz,Berlin,mehr als 3,Neunjähriges,Elektriker,Elektriker,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,,,,55332,1926,DVFP,Kamerad,in Arbeit,nein,nein,nein,ja,0,239934
+Schralin,A,männlich,12.07.1893,Bremen,Mühlheim ad Ruhr,mehr als 3,Volksschule,Kaufmann,selbständiger Vertreter,Auslandsreisender,,4,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,,,1932,,,in Arbeit,ja,ja,nein,nein,0,236378
+Hofmann,Adolf,männlich,,Österreich,Berlin,mehr als 3,Volksschule,Gärtner,Arbeiter,Handweber,marxistisch,4,,,mehrmals,mehrmals,verheiratet,,,58393,1926,Marxist,,,ja,nein,ja,nein,0,239593
+Junck,Adolf,männlich,,Frankfurt,Berlin,unter 3,,Kaufmann,Kaufmann,Pfänder,,,in Arbeit,,keiner,mehrmals,,,,99821,,,Verein,,nein,nein,nein,ja,0,239847
+Reif,Adolf,männlich,20.07.1898,Nein,Carden,mehr als 3,Volksschule,Rottenarbeiter,Rottenarbeiter,Eisenbahner,,2,,,,,verheiratet,,,151224,1929,,Versammlung,,ja,ja,,nein,0,238390
+Trappe,Adolf,männlich,25.02.1895,Calbe Saale,Calbe,mehr als 3,Volksschule,Polizist,Landwirt,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1930,Stahlhelm,Aufmarsch,in Arbeit,ja,nein,ja,nein,0,237175
+Mosler-Sturm,Agnes,weiblich,,,Berlin,,Studium,Pianistin,Pianistin,,,,,,,,,,,,,,,,nein,nein,nein,nein,0,236599
+Budasch,Albert,männlich,,Lübbenau,Berlin,,,,,Gutsverwalter,national,,,,,,,,,,,,,,ja,nein,nein,ja,0,237057
+Kohler,Albert,männlich,08.07.1876,Michalow,Berlin,mehr als 3,Volksschule,Kellner,Wirt,Kolonist,,,arbeitslos,ja,mehrmals,mehrmals,verheiratet,,,255766,1930,Stahlhelm,,arbeitslos,ja,nein,nein,ja,0,237676
+Lenz,Albert,männlich,,Frankfurt,Frankfurt,mehr als 3,abgebrochenes Studium,,Postbetriebsarbeiter,Ladenbesitzer,national,,in Arbeit,,mehrmals,mehrmals,,,,,1928,Stahlhelm,Kamerad,in Ausbildung,nein,nein,nein,nein,0,239950
+Wichert,Albert,männlich,28.05.1882,Altdorf Lothringen,Kusel,mehr als 3,Volksschule,Koch,Steuersekretär,Aufseher Proviantamt,,7,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,28470,1920,,,in Arbeit,ja,nein,nein,nein,0,240126
+Leman,Albrecht,männlich,11.05.1895,Darmstadt,Berlin,mehr als 3,Realschule,Bauzeichner,,Bauunternehmer,,,,ja,mehrmals,mehrmals,,,,394,1923,,,arbeitslos,ja,nein,ja,ja,0,239563
+Haberland,Alfons,männlich,,,Magdeburg,mehr als 3,Volksschule,Kaufmann,Speditionsarbeiter,,,,,ja,mehrmals,mehrmals,,,,,1922,,Kamerad,in Arbeit,,,,nein,0,237246
+Buchholz,Alfred,männlich,01.01.1902,,Berlin,mehr als 3,Einjähriges,Bäcker,Bürogehilfe,Unteroffizier,,6,in Arbeit,ja,mehrmals,mehrmals,,,,69186,1927,DNVP,Zeitung,in Arbeit,nein,nein,nein,nein,0,239826
+Klinghammer,Alfred,männlich,07.04.1893,Elberfeld,Berlin,mehr als 3,Volksschule,Soldat,Kündigungsbeamter,Handwerker,marxistisch,2,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,,226605,1930,DNVP,Propagandamaterial,in Arbeit,ja,ja,ja,nein,0,238654
+Kotz,Alfred,männlich,10.11.1886,Berlin,Berlin,keiner,Volksschule,Kontorist,Beamter,Maurer,sozialdemokratisch,2,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,christlich,244959,1930,Stahlhelm,,in Arbeit,ja,nein,nein,nein,0,237715
+Meissner,Alfred,männlich,08.07.1880,Berlin,Berlin,mehr als 3,Gymnasium,Justizsupernumerar,Justizinspektor,Justizbeamter,,,in Arbeit,nein,keiner,mehrmals,verheiratet,0,evangelisch,1330912,1932,DNVP,Putsch,in Arbeit,nein,nein,nein,nein,0,237023
+Oppermann,Alfred,männlich,11.12.1878,Potsdam,Potsdam,mehr als 3,Oberrealschule,Kaufmann,Justizobersekretär,Wäschefabrikant,,4,in Arbeit,ja,mehrmals,mehrmals,verheiratet,2,evangelisch,20025,1923,DNVP,Putsch,in Arbeit,ja,ja,ja,nein,0,240049
+Räschke,Alfred,männlich,01.01.1904,Berlin,Berlin,unter 3,Volksschule,Maschinenbauer,Monteur,,,1,in Arbeit,ja,mehrmals,mehrmals,,,,,1924,,Putsch,in Arbeit,nein,nein,nein,nein,0,238406
+Schiffer,Alfred,männlich,15.01.1890,Duisburg,Berlin,unter 3,Volksschule,Schlosser,Tischler,Kesselschmied,,,in Arbeit,ja,mehrmals,mehrmals,geschieden,,evangelisch,,1929,DNVP,Versammlung,in Arbeit,nein,nein,nein,ja,0,236735
+Rein,Alois,männlich,04.07.1902,Pirmasens,Pirmasens,mehr als 3,Zweijähriges,Soldat,,Pater,,,,,,,verheiratet,,,,1925,,Kamerad,,nein,nein,ja,nein,0,239340
+Fölbach,Alois,männlich,,,Berlin,mehr als 3,Gymnasium,,,,,,,,,,,,,,,,Putsch,,ja,nein,nein,nein,0,238209
+Rosenberg,Ander,männlich,23.05.1910,Berchtesgarden,Kritten,mehr als 3,Volksschule,Drogist,,Kaufmann,,6,,,mehrmals,mehrmals,,,,,1928,,Versammlung,,nein,nein,nein,ja,0,239628
+Idems,Anton,männlich,01.01.1900,Cordel,Moselkern,unter 3,Volksschule,Reichsbahner,,Steinhauer,,6,,ja,,mehrmals,verheiratet,4,,,1929,,Versammlung,in Arbeit,nein,nein,nein,nein,0,238871
+Belger,Arno,männlich,01.01.1912,Halle,Halle,mehr als 3,,,Beamter,Beamter,national,,,ja,,mehrmals,,,,,1931,,Kamerad,,nein,nein,nein,nein,0,236479
+Schier,Arnold,männlich,14.03.1903,Moers,Moers,keiner,Volksschule,Landwirt,Landwirt,Landwirt,,0,in Arbeit,nein,keiner,keiner,verheiratet,,evangelisch,,1928,DVFP,,in Arbeit,nein,nein,nein,ja,0,237577
+Gapshoff,Arthur,männlich,06.09.1907,Dortmund,Dortmund,unter 3,Gymnasium,Landwirt,Landwirt,Landwirt,national,,in Arbeit,ja,mehrmals,mehrmals,,,,,1930,Jungsturm,Putsch,arbeitslos,nein,nein,nein,ja,2,239643
+Fin,Arthur,männlich,01.01.1889,,Berlin,,,,,,,,in Arbeit,ja,,,verheiratet,3,,,1931,DVFP,,arbeitslos,ja,ja,ja,ja,0,239272
+Hermann,Arthur,männlich,28.01.1898,Berlin,Berlin,unter 3,Volksschule,Arbeitsbursche,,Geldbriefträger,,5,arbeitslos,ja,,mehrmals,,,,1090228,1932,,,arbeitslos,ja,ja,ja,nein,0,240147
+Hessler,Arthur,männlich,01.05.1903,Kaiserslautern,Kaiserslautern,keiner,Werktagsschule,Dentist,Dentist,Lokomotivführer,,,in Arbeit,nein,keiner,keiner,,,,48826,1925,,Putsch,in Arbeit,ja,nein,ja,nein,0,237845
+Klaffke,Arthur,männlich,06.07.1901,Gottschimm,Freystadt,mehr als 3,Volksschule,Händler,Spirituosengrosshändler,Landwirt,national,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,3,evangelisch,,1930,,Versammlung,in Arbeit,nein,nein,nein,ja,0,238886
+Acker,August,männlich,04.08.1906,Edenkoben,Edenkoben,keiner,Volksschule,Winzer,Winzer,Winzer,,,in Arbeit,nein,keiner,keiner,,,,,1929,völkischer Jugendbund,Kamerad,in Arbeit,nein,nein,nein,nein,0,239453
+Arnold,August,männlich,01.01.1907,,Darmstadt,keiner,Volksschule,keiner,Güterbodenarbeiter,,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,,272573,1930,Stahlhelm,Kamerad,arbeitslos,nein,nein,nein,ja,0,239065
+Eisenblätter,August,männlich,24.07.1887,,Lieberstadt,mehr als 3,Volksschule,Tischler,Tischler,Gutsarbeiter,,2,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1931,Stahlhelm,Versammlung,in Arbeit,ja,ja,ja,nein,0,239751
+Fischer,August,männlich,24.09.1905,Metz,Ludwigshafen,mehr als 3,,,,Eisenbahnbeamter,national,,arbeitslos,ja,mehrmals,mehrmals,verheiratet,,,,1930,,Versammlung,arbeitslos,nein,nein,nein,ja,0,239404
+Hofer,August,männlich,01.01.1868,Göttingen,Berlin,mehr als 3,Gymnasium,Buchhändler,Verleger,Verleger,national,2,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1930,,Zeitung,in Arbeit,nein,nein,nein,nein,0,239782
+Kirwald,August,männlich,01.01.1880,Trier,Trier,keiner,,Händler,Strassenmeister,,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,2,,75752,1928,,Zeitung,arbeitslos,nein,nein,nein,nein,0,238344
+Marleiter,August,männlich,01.01.1888,Neiße,Essen,mehr als 3,Volksschule,Lehrer,Lehrer,Bauer,,,in Arbeit,nein,keiner,mehrmals,,,,,1929,DNVP,,in Arbeit,ja,ja,nein,nein,0,237110
+Nunold,August,männlich,01.03.1900,Zweibrücken,Zweibrücken,mehr als 3,Volksschule,Soldat,,Former,sozialdemokratisch,4,in Arbeit,,mehrmals,mehrmals,,,,14357,1922,,Kollege,in Arbeit,ja,nein,ja,nein,0,239349
+Spanku,August,männlich,18.02.1898,Dieblitztahl,Angerburg,mehr als 3,Volksschule,Lokomotivführer,Hausmeister,Zimmerer,,,in Arbeit,ja,mehrmals,mehrmals,,,,331715,1930,,Versammlung,in Arbeit,ja,nein,ja,ja,0,239694
+Ude,August,männlich,01.01.1886,,Hannover,,,,Werber,,,,in Arbeit,,,,verheiratet,3,,213020,1930,,,arbeitslos,,,,nein,0,236405
+Villwak,August,männlich,19.09.1906,Swirsen,Berlin,unter 3,,,Strassenreiniger,Eigentümer,,,in Arbeit,ja,,,,,,,1930,,Zeitung,arbeitslos,nein,nein,nein,ja,0,237561
+Zimmermann,August,männlich,,,Egelsbach,,,,,,,,,,,,,,,,1930,USP,Kamerad,,ja,nein,nein,nein,0,240123
+Heiht,B,männlich,30.09.1876,Rixdorf,Berlin,mehr als 3,Volksschule,Schlosser,Lokomotivführer,Tischlermeister,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,3,,,1928,DNVP,,in Arbeit,nein,nein,nein,ja,0,238792
+Bartsch,,männlich,27.10.1877,Tilsit,Stallupönen,mehr als 3,Mittelschule,Postbeamter,Postbeamter,Bauer,,,in Arbeit,nein,keiner,mehrmals,verheiratet,,evangelisch,,1928,,Zeitung,in Arbeit,nein,nein,nein,nein,0,236673
+Horstmann,Bernhard,männlich,12.02.1883,Bottrop,Berlin,,Volksschule,Bergmann,Stadtamtmann,Bergmann,,8,in Arbeit,,mehrmals,mehrmals,verheiratet,1,,,1932,DVFP,,in Arbeit,ja,nein,nein,nein,0,238703
+Lipki,Bernhard,männlich,,,,mehr als 3,Volksschule,Kaufmann,Hotelier,Gutsbesitzer,,,in Arbeit,nein,mehrmals,mehrmals,,,katholisch,,1930,,,in Arbeit,ja,ja,nein,nein,0,237739
+Bohli,,männlich,15.12.1884,Pfullendorf,Martinszell,mehr als 3,Volksschule,Tapezierer,Vertreter,,,,in Arbeit,,mehrmals,mehrmals,verheiratet,5,,,1932,Stahlhelm,,in Arbeit,ja,nein,ja,nein,0,239317
+Krupp,Bruno,männlich,,Ostpreussen,Marienburg,mehr als 3,Volksschule,Zimmerer,Zimmerer,Bauer,national,,in Arbeit,nein,keiner,keiner,verheiratet,4,,,1931,,Versammlung,in Arbeit,ja,nein,nein,ja,0,238921
+Schulze,Bruno,männlich,20.04.1889,Berlin,Berlin,mehr als 3,Volksschule,Händler,Verwaltungsangestellter,Schlosser,,2,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,evangelisch,,1931,DNVP,,in Arbeit,nein,nein,nein,ja,0,238739
+Seidel,Hans,männlich,18.10.1891,Dresden,Frankfurt,mehr als 3,Bürgerschule,Kellner,Kellner,,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,evangelisch,276549,1928,,Kamerad,arbeitslos,ja,ja,nein,ja,0,239013
+Stiffel,Bruno,männlich,01.06.1906,Berlin,Berlin,keiner,Einjähriges,Verwaltung,Verwaltungsangestellter,Krämer,,3,in Arbeit,nein,keiner,keiner,verheiratet,,,,1931,,Putsch,in Arbeit,nein,nein,nein,nein,0,238725
+Thürling,Bruno,männlich,05.06.1886,Berlin,Berlin,keiner,Einjähriges,Soldat,Stadtoberinspektor,Gastwirt,national,2,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,evangelisch,,1931,,,in Arbeit,ja,nein,nein,nein,0,236728
+Tschiesche,Bruno,männlich,22.07.1875,Alt Döbern,Berlin,unter 3,Gymnasium,Kaufmann,Verwaltungsangestellter,Eisenbahner,,1,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,,743684,1931,,,in Arbeit,nein,nein,nein,ja,0,239852
+Haar,Carl,männlich,19.07.1904,Berlin,Berlin,keiner,Volksschule,Kellner,Kellner,Kellner,,,arbeitslos,ja,keiner,mehrmals,,,,231692,1930,DVFP,Kamerad,arbeitslos,nein,nein,nein,nein,0,238225
+John,Carl,männlich,09.03.1902,Rosslau,Berlin,unter 3,Gymnasium,Bankkaufmann,Büroangestellter,Oberingenieur,,,in Arbeit,nein,keiner,mehrmals,verheiratet,,,551156,1931,DVFP,Kamerad,in Arbeit,nein,nein,nein,nein,0,238534
+Koch,Carl,männlich,08.08.1877,Berndorf,Oberhausen,unter 3,Volksschule,Kutscher,Pförtner,Bauer,national,10,arbeitslos,ja,mehrmals,mehrmals,verheiratet,4,,,1928,,Kamerad,in Arbeit,ja,ja,nein,nein,0,236284
+Gautsche,Christian,männlich,07.05.1906,Pirmasens,Pirmasens,unter 3,Volksschule,Koch,Strassenreiniger,Schuhfabrikant,,,in Arbeit,ja,mehrmals,mehrmals,,,,,1923,,,in Arbeit,nein,nein,ja,nein,0,239429
+Delp,Christoph,männlich,26.10.1901,Kirch-Beerfurth,Kirch-Beerfurth,keiner,Volksschule,Landwirt,Sägewerksleiter,Bäcker,,3,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,evangelisch,184402,1929,DVFP,Versammlung,in Arbeit,nein,nein,nein,nein,0,238004
+Schäfer,D,männlich,,Kaiserslautern,Darmstadt,mehr als 3,,,,,,,,,,mehrmals,,,,39975,1926,,Kamerad,,nein,nein,nein,nein,0,237840
+Eberhardt,,weiblich,13.12.1873,Berlin,Berlin,keiner,,Kindermädchen,Portier,,,,,,mehrmals,mehrmals,verheiratet,,,,1926,SPD,,in Arbeit,nein,nein,nein,ja,0,239270
+Dienhart,Edmund,männlich,01.01.1910,Wehlen,Wehlen,mehr als 3,Unterprima,Winzer,Aushilfe,Winzer,,6,,,mehrmals,mehrmals,,,,,,,Familie,,nein,nein,nein,nein,0,238509
+Egert,Eduard,männlich,,,Hallgarten,,,,,,,,in Arbeit,ja,,mehrmals,,,,,1929,,Versammlung,in Arbeit,,,,ja,0,239964
+Frei,Eduard,männlich,,Schweiz,Wiesbaden,unter 3,,Schreiner,Schreinermeister,,national,,arbeitslos,ja,keiner,mehrmals,verheiratet,1,,,1931,,Zeitung,arbeitslos,nein,nein,nein,nein,0,239955
+Holema,Eduard,männlich,13.08.1890,Zaborze/Zabrze,Berlin,unter 3,Volksschule,Verwaltung,Stadtamtmann,Kaufmann,,,in Arbeit,nein,keiner,mehrmals,verheiratet,4,,,1926,Heimattreuer Oberschlesier,,in Arbeit,nein,nein,nein,nein,0,238676
+Krell,Eduard,männlich,30.10.1884,Stallopönen,Scharken,keiner,Volksschule,Müller,Müller,Mühlenbesitzer,,9,in Arbeit,nein,keiner,keiner,verheiratet,1,,206509,1929,Stahlhelm,,in Arbeit,ja,ja,nein,ja,0,239712
+Rehmer,Egon,männlich,14.03.1907,Berlin,Berlin,keiner,Volksschule,Bürogehilfe,Bürogehilfe,Kammerdiener,,,in Arbeit,nein,keiner,mehrmals,,,,109188,1928,DNVP,Versammlung,in Arbeit,nein,nein,nein,nein,0,238190
+Kragat,Emil,männlich,17.10.1880,Bellemringfern,Berlin,unter 3,Volksschule,Soldat,Parteiamtsmann,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,,,evangelisch,,1930,DSP,,in Arbeit,ja,ja,nein,ja,0,237043
+Groh,Emil,männlich,14.08.1887,Wintersheim,Wintersheim,keiner,Volksschule,Weinbauer,Weinbauer,Landwirt,,,in Arbeit,nein,keiner,keiner,verheiratet,,,,1928,,,in Arbeit,ja,nein,nein,nein,0,240109
+Hanf,Emil,männlich,07.06.1902,Rossleben,Rossleben,mehr als 3,Realschule,Zahntechniker,Zahntechniker,Dentist,,,in Arbeit,nein,keiner,keiner,,,,,1926,Wandervogel,Kamerad,in Arbeit,nein,nein,nein,nein,0,237218
+Jung,Emil,männlich,18.04.1900,Remscheid,Dinslaken,unter 3,Bürgerschule,Kaufmann,,Werkmeister,,,,,,,,,,,1931,,,,ja,ja,ja,nein,0,236358
+Krug,Emil,männlich,17.01.1905,Ihringshausen,Ihringhausen,unter 3,Volksschule,Landwirt,Landwirt,Landwirt,national,,in Arbeit,nein,mehrmals,mehrmals,,,,,1931,Jungdeutscher Orden,Kamerad,in Arbeit,nein,nein,nein,ja,0,237442
+Setny,Emil,männlich,14.10.1888,Mainz,Berlin,mehr als 3,Studium,Büroangesteller,Beamter,,,,in Arbeit,nein,keiner,mehrmals,verheiratet,0,,,1931,,Kamerad,in Arbeit,ja,ja,nein,nein,0,238638
+Somunow,Emil,männlich,13.09.1901,Krim,Freystadt,mehr als 3,Gymnasium,,,Landwirt,national,1,,ja,mehrmals,mehrmals,,,,,1930,,Putsch,arbeitslos,nein,nein,nein,ja,0,238890
+Bemke,Erich,männlich,25.12.1885,Ziezenoff,Rügenwalde,mehr als 3,Volksschule,Soldat,Zollinspektor,Invalide,,7,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,,151521,1929,,Putsch,in Arbeit,ja,nein,ja,ja,0,238451
+Götze,Erich,männlich,16.10.1896,Potsdam,Berlin,,Volksschule,Kaufmann,Bankangestellter,Werkmeister,,,in Arbeit,,,,verheiratet,1,,,1930,,,in Arbeit,ja,ja,nein,nein,0,239549
+Hinz,Erich,männlich,08.10.1897,"Gultsch, Posen",Marienburg,unter 3,Volksschule,Landwirt,Milchkontrollassistent,Landwirt,,3,in Arbeit,,mehrmals,mehrmals,,,,,1930,Stahlhelm,,in Arbeit,ja,nein,ja,ja,0,238908
+Kiefer ,Erich,männlich,11.11.1906,Neuhemsbach,Neustadt/Haardt,mehr als 3,Gymnasium,Bankbeamter,Verwaltungsassistent,Eisenbahninspektor,national,,in Arbeit,nein,mehrmals,mehrmals,,,,20585,1925,Schwarze Reichswehr,,arbeitslos,nein,nein,nein,nein,0,239447
+Klein ,Erich,männlich,15.01.1905,Zweibrücken,Zweibrücken,keiner,Volksschule,Former,Former,Invalide,,9,in Arbeit,nein,keiner,keiner,,,,,1926,,Versammlung,in Arbeit,nein,nein,nein,nein,0,239353
+Schumski,Erich,männlich,,Marienburg,Marienburg,unter 3,,Koch,,,,,arbeitslos,ja,,,,,,462501,1930,,Zeitung,in Arbeit,,,,nein,0,239745
+Ullmann,Erika,weiblich,21.09.1901,Brandenburg,Berlin,unter 3,Lyzeum,Krankenschwester,Krankenschwester,Pfarrer,national,2,in Arbeit,,keiner,,,,,55348,1926,,,in Arbeit,nein,nein,nein,ja,0,239814
+Siegfried,Erna,weiblich,15.03.1883,Singapor,Berlin,mehr als 3,,Sekretärin,Sekretärin,Hotelier,,3,in Arbeit,nein,keiner,mehrmals,,,,855499,1931,DNVP,,in Arbeit,nein,nein,nein,ja,0,237793
+Stoyke,Erna,weiblich,18.09.1913,Plowenz,Marienburg,mehr als 3,,Stenotypistin,Fabrikarbeiter,,national,0,arbeitslos,ja,mehrmals,mehrmals,,,,,1931,,Schule,arbeitslos,nein,nein,nein,nein,0,238914
+Ahlborn,Ernst,männlich,05.05.1906,Barntrup,Dörpe,mehr als 3,Volksschule,Schlosser,Schlosser,Weichensteller,,3,in Arbeit,ja,mehrmals,mehrmals,verheiratet,1,,24523,1923,Schlageterbund,,in Arbeit,nein,nein,ja,nein,0,236442
+Botz,Ernst,männlich,09.05.1899,Wiesenbach,Wiesenbach,,Volksschule,Former,Former,,,,in Arbeit,ja,keiner,mehrmals,,,,,1929,,,in Arbeit,ja,nein,nein,ja,0,239476
+Erbelding,Ernst,männlich,01.01.1892,Zweibrücken,Zweibrücken,mehr als 3,Abitur,Soldat,Bankbeamter,Amtsgerichtsdirektor,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1926,DVFP,Versammlung,in Arbeit,ja,ja,nein,nein,0,239465
+Fischer,Ernst,männlich,28.07.1896,Berlin,Berlin,mehr als 3,Oberrealschule,Landwirt,Kaufmann,Kaufmann,antisemit,,in Arbeit,nein,keiner,mehrmals,verheiratet,3,,,1927,DSP,Kamerad,in Arbeit,ja,nein,nein,nein,0,238298
+Glogau,Ernst,männlich,18.04.1907,Berlin,Berlin,keiner,Volksschule,Kaufmann,,Justizwachtmeister,,1,,ja,mehrmals,mehrmals,,,evangelisch,27255,1926,DNVP,Putsch,arbeitslos,nein,nein,nein,nein,0,238260
+Jung,Ernst,männlich,08.08.1913,Bacharach,Hattenheim,unter 3,Realgymnasium,Lehrer,,Eisenbahner,,5,in Ausbildung,nein,,,,,,,1932,,Versammlung,in Ausbildung,nein,nein,nein,ja,0,239981
+Kreiselmaier,Ernst,männlich,,,Ludwigshafen,,Studium,,,,,,,,,,,,,,1926,Brigade Erhardt,,,nein,nein,nein,nein,0,239423
+Külm,Ernst,männlich,06.05.1908,Brühlhof-Kirchen,Brühlhof-Kirchen,unter 3,Volksschule,Schlosser,Hilfsarbeiter,Dreher,national,1,in Arbeit,ja,keiner,mehrmals,,,,,1930,Nationaler Jungmännerverein,Putsch,in Arbeit,nein,nein,nein,ja,0,238835
+Laube,Ernst,männlich,09.11.1904,Berlin,Berlin,keiner,Gemeindeschule,Maschinenbauer,,Eisenhobler,,,,,,,,,,,1929,KPD,Kamerad,,nein,nein,nein,ja,0,237670
+Lurkfett,Ernst,männlich,14.02.1910,Posilge,Posilge,keiner,Volksschule,Landwirt,Landwirt,Landwirt,,3,in Arbeit,nein,keiner,keiner,,,,,1930,,,in Arbeit,nein,nein,nein,ja,0,238905
+Schmitt,Ernst,männlich,05.04.1896,Staudernheim,Staudernheim,mehr als 3,Volksschule,Schmied,Ingenieur,Schmied,national,1,arbeitslos,nein,keiner,mehrmals,verheiratet,2,evangelisch,5864,1925,DVP,Propagandamaterial,in Arbeit,ja,ja,nein,nein,0,238496
+Kröger,Erich,männlich,12.11.1911,Posilge,Posilge,keiner,Volksschule,Stellmacher,Stellmacher,Stellmachermeister,,,in Arbeit,nein,keiner,keiner,,,evangelisch,,1930,,,in Arbeit,nein,nein,nein,ja,0,238903
+Woldt,Ernst,männlich,,,Magdeburg,mehr als 3,,,Kaufmann,,,,,,,,,,,,1929,Wandervogel,,,nein,nein,nein,nein,0,237158
+Hempel,Ernst,männlich,27.11.1883,Dresden,Berlin,unter 3,Realschule,Dramaturg,Arbeitsfront,Reichsbankbeamter,,,in Arbeit,ja,keiner,mehrmals,,,,,1930,,,in Arbeit,ja,nein,nein,ja,0,239930
+Sumrath,Erwin,männlich,20.02.1907,Königsberg,Königsberg,mehr als 3,Volksschule,,,,,,in Arbeit,nein,keiner,mehrmals,,,,,1932,,,in Arbeit,nein,nein,nein,ja,0,239660
+Huber,Eugen,männlich,13.05.1902,Ludwigshafen,Neustadt/Haardt,mehr als 3,Volksschule,Schlosser,Aussenkontrolleur,Bahnbeamter,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,3,,,1928,,Kamerad,arbeitslos,nein,nein,nein,nein,0,239458
+Euler,,männlich,01.01.1910,Bad Ems,Bad Ems,unter 3,Handelsschule,Kaufmann,Kaufmann,Ladenbesitzer,national,,in Arbeit,nein,keiner,keiner,,,,,1926,,Kamerad,in Ausbildung,nein,nein,nein,nein,0,239320
+Bahr,Ewald,männlich,16.01.1910,Berlin,Berlin,unter 3,,,,,national,1,,,,,,,,127453,1929,,Kamerad,in Ausbildung,nein,nein,nein,nein,0,238974
+Banteleit,Ewald,männlich,01.01.1902,Berlin,Essen,mehr als 3,Volksschule,Bankkaufmann,,,,0,,ja,,mehrmals,,,,,1928,Wikkingbund,Putsch,,nein,nein,nein,nein,0,237100
+Karsten,Ewald,männlich,27.05.1904,Rees,Rees,mehr als 3,Volksschule,Klempner,Arbeiter,Monteur,,5,arbeitslos,ja,mehrmals,mehrmals,,,katholisch,,1931,Gewerkschaft,Kamerad,arbeitslos,nein,nein,ja,nein,0,236873
+Lüttgens,F,männlich,01.01.1902,Rheinhausen,Rheinhausen,unter 3,Volksschule,Bürogehilfe,Arbeiter,Hochofenmaschinist,national,,in Arbeit,nein,mehrmals,mehrmals,,,,,1925,Gewerkschaft,Familie,in Arbeit,nein,nein,nein,nein,0,236305
+Meinecke,M,weiblich,28.08.1897,Leipzig,Hannover,unter 3,Volksschule,Haushälterin,,Kaufmann,,3,,,,,verheiratet,,evangelisch,,1931,,,,nein,nein,nein,ja,116,237364
+Nieke,Anna,weiblich,21.08.1898,Gorlowken,Plötzensee,mehr als 3,,Kindermädchen,,Gärtner,,,,ja,mehrmals,mehrmals,verheiratet,,evangelisch,602554,1931,,Familie,in Arbeit,nein,nein,nein,ja,0,237816
+Dahlm,Friedrich,männlich,10.11.1899,Lorch,Lorch,unter 3,Volksschule,Schlosser,Schlosser,Küfermeister,,,in Arbeit,nein,keiner,mehrmals,verheiratet,2,katholisch,,1932,Christlicher Arbeiterverband,,in Arbeit,ja,nein,nein,ja,0,239968
+Becker,Friedrich,männlich,29.09.1872,Frankenthal,Augsburg,mehr als 3,Fortbildungsschule,Stuhlbauer,Fabrikant,,,7,in Arbeit,nein,keiner,mehrmals,verheiratet,2,,9837,,,,in Arbeit,ja,nein,nein,ja,0,239874
+Kuprat,Friedrich,männlich,04.02.1898,Schruben,Szacken,mehr als 3,Volksschule,Landwirt,Strassenwart,Landwirt,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,3,evangelisch,,1930,DVFP,,arbeitslos,ja,nein,ja,ja,0,239716
+Schaumburg-Lippe,Friedrich,männlich,05.01.1906,Bückeburg,Berlin,mehr als 3,,,Regierungsrat,Fürst,national,8,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1929,,,in Arbeit,nein,nein,nein,nein,0,238439
+Adler,Ferdinand,männlich,29.11.1872,Rudolstadt,Berlin,unter 3,Volksschule,Fleischer,Bezirksamtsmann,Bankbeamter,,,in Rente,nein,mehrmals,mehrmals,,,,,,,,in Rente,ja,nein,nein,nein,0,236979
+Arnold,Ferdinand,männlich,30.04.1902,Tilsit,Korschen,unter 3,Volksschule,Dentist,Dentist,Kaufmann,,,in Ausbildung,nein,keiner,mehrmals,verheiratet,2,,89553,1927,DNVP,,in Arbeit,nein,nein,nein,nein,0,239742
+Jansing,Ferdinand,männlich,,Düsseldorf,Düsseldorf,keiner,,Maschinist,Maschinist,,,,arbeitslos,ja,keiner,mehrmals,verheiratet,2,,,1932,,Zeitung,arbeitslos,,,,ja,0,237626
+Zehnder,Ferdinand,männlich,08.07.1906,Frankfurt,Frankfurt,keiner,Mittelschule,Kaufmann,Arbeiter,Kaufmann,,6,in Arbeit,ja,mehrmals,mehrmals,verheiratet,2,,17369,1925,Grossdeutsche Jugend,Versammlung,in Arbeit,nein,nein,nein,ja,0,239001
+Pilz,Fidor,männlich,07.07.1896,Quitzdorf Schlesien,Berlin,mehr als 3,Volksschule,Schlosser,Konfektionsschneider,,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,,,,,,,ja,nein,nein,ja,0,237525
+Dietrich,Friedrich,männlich,,,Halle,,,,Beamter,,,,,,,,verheiratet,,,153627,1930,,Putsch,,ja,nein,nein,nein,0,236489
+Bentz,Franz,männlich,26.10.1897,Heiligenstein,Germersheim,mehr als 3,Gymnasium,Bankkaufmann,Rechnungsführer,Reichsbahnzugführer,,,in Arbeit,nein,keiner,mehrmals,,,,,1928,Jungdeutscher Orden,,in Arbeit,ja,nein,nein,nein,0,239444
+Brehmer,Franz,männlich,15.11.1914,Berlin,Berlin,keiner,Volksschule,Installateur,Installateur,Kraftwagenfahrer,,,,,,,,,,,1933,,Kollege,,nein,nein,nein,ja,0,237530
+Fischer,Franz,männlich,24.04.1896,Giessen,Michelstadt,mehr als 3,Abitur,Techniker,Schulrektor,Soldat,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1930,,Zeitung,in Arbeit,ja,nein,nein,nein,0,237999
+Happe,Franz,männlich,05.08.1873,Seesen,Halle,mehr als 3,Volksschule,Kunst- und Bauschlosserhandwerker,,,,4,in Arbeit,nein,mehrmals,mehrmals,,,evangelisch,187714,1924,Stahlhelm,Versammlung,in Arbeit,ja,nein,nein,nein,0,236408
+Jahnke,Franz,männlich,30.12.1906,Berlin,Berlin,unter 3,Volksschule,Kaufmann,,,,,in Arbeit,ja,,mehrmals,,,,,1930,Marxistischer Turnverein,,,nein,nein,nein,nein,0,239554
+Laborius,Franz,männlich,08.10.1888,Puschinnen,Tappen,mehr als 3,Volksschule,Landwirt,Gemeindeschulz,Besitzer,,,in Arbeit,,mehrmals,mehrmals,,,evangelisch,,1930,,,,ja,nein,nein,ja,0,239700
+Merkelbach,Franz,männlich,15.11.1896,Koblenz,Koblenz,keiner,Volksschule,Mechaniker,,Eisenbahnklemptner,,5,,,,,,,katholisch,18469,1925,,Familie,,ja,ja,,nein,0,238527
+Wichmann,Franz,männlich,06.02.1908,Posilge,Posilge,unter 3,Volksschule,Schmied,Schmied,Schmiedemeister,,4,in Arbeit,nein,keiner,mehrmals,,,evangelisch,,1930,,,in Arbeit,nein,nein,nein,ja,0,238896
+Bierwirth,Emma,weiblich,24.07.1896,Frankfurt,Frankfurt,keiner,Volksschule,,Hausfrau,Gastwirt,,7,,,,,,,,90435,1929,,,,nein,nein,nein,ja,0,237965
+Huhn,H,weiblich,,,Berlin,mehr als 3,,,Hausfrau,,,,,,,,verheiratet,2,,,,,Nachbar,,nein,nein,nein,nein,0,238768
+"Achterberg,",Friedrich,männlich,17.05.1897,Moers,Moers,keiner,Obersekundareife,,Verwalter,Bauer,,10,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1932,DNVP,Kollege,in Arbeit,nein,nein,nein,nein,0,236854
+Hagen,Friedrich,männlich,,Frankfurt,Berlin,mehr als 3,,Soldat,Verkäufer,,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1932,,Putsch,in Arbeit,ja,nein,ja,nein,0,236622
+Jöms,Friedrich,männlich,19.12.1884,Bardowick,Eschwege,mehr als 3,Volksschule,Musiker,Justizoberwachtmeister,Klempner,,,in Arbeit,nein,mehrmals,mehrmals,,,evangelisch,,1925,,Putsch,in Arbeit,ja,ja,ja,nein,0,236507
+Kurtz,Friedrich,männlich,25.01.1869,Zweibrücken,Zweibrücken,mehr als 3,Gymnasium,Tapezierer,,Schuhmachermeister,,7,arbeitslos,ja,mehrmals,mehrmals,verheiratet,5,,8272,1922,,Propagandamaterial,in Arbeit,nein,nein,nein,ja,0,239367
+Luther,Friedrich,männlich,16.09.1902,Hannover,Neustadt/Haardt,mehr als 3,Volksschule,Gärtner,,Bergmann,,,,ja,keiner,mehrmals,verheiratet,,,,1930,,,,nein,nein,nein,nein,0,239455
+Malakam,Friedrich,männlich,08.12.1893,Wasback,Mengeringhausen,mehr als 3,,Soldat,Zollsekretär,,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,156561,1929,,Putsch,in Arbeit,ja,ja,nein,ja,0,237401
+Schaub,Friedrich,männlich,30.04.1882,Berlin,Berlin,mehr als 3,Abitur,Chemiker,Chemiker,Klempnermeister,,,in Arbeit,nein,keiner,mehrmals,,,,,1931,,,in Arbeit,ja,nein,nein,nein,0,238310
+Schulze,Friedrich,männlich,16.06.1886,Langenbrügge,Neuhaldensleben,,,Lehrer,Lehrer,Landwirt,,,in Arbeit,nein,keiner,keiner,,,,,1928,Stahlhelm,,in Arbeit,ja,nein,nein,nein,0,237252
+Braune,Friedrich,männlich,18.01.1871,Leipzig,Berlin,mehr als 3,Volksschule,Kaufmann,Verwaltungsleiter,Schuhmacher,,6,in Arbeit,ja,mehrmals,mehrmals,verheiratet,1,,,1929,,,arbeitslos,ja,ja,nein,nein,0,236392
+Kell,Friedrich,männlich,11.12.1895,Gollnowshagen,Königsberg,mehr als 3,Volksschule,Schreibhilfe,,Lehrer,,,,,mehrmals,mehrmals,verheiratet,5,evangelisch,,1930,Marxist,Versammlung,,ja,ja,nein,nein,0,239666
+Behrendt,Fritz,männlich,05.02.1907,Mehlsack,Eylau,mehr als 3,Dorfschule,Müller,Kreisleiter,Werkführer,,2,in Arbeit,ja,mehrmals,mehrmals,,,,,1928,Wehrwolf,Kollege,in Arbeit,nein,nein,nein,nein,0,236687
+Czirnik,Fritz,männlich,10.02.1879,Berlin,Berlin,unter 3,Gemeindeschule,Hausdiener,Reichsbahnbeamter,Böttchermeister,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,evangelisch,7178,1925,Völkischer Schutz- und Trutzbund,Aufmarsch,in Arbeit,ja,nein,nein,ja,0,238797
+Daemrich,Fritz,männlich,21.11.1897,Bergzabern,Bergzabern,mehr als 3,Realgymnasium,Zeichner,Architekt,Architekt,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,5,,65751,1927,DVFP,Zeitung,in Arbeit,ja,ja,nein,nein,0,237876
+Fischer,Fritz,männlich,20.09.1909,Holzappel,Holzappel,unter 3,Volksschule,Kaufmann,Amtswalter,Bergmann,sozialdemokratisch,3,in Arbeit,ja,mehrmals,mehrmals,,,,,1930,DNVP,Zeitung,arbeitslos,nein,nein,nein,nein,0,237910
+Glasmacher,Fritz,männlich,04.02.1901,Calcar,Gloch,mehr als 3,Abitur,Lehrer,Lehrer,Postschaffner,,7,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,katholisch,,1933,katholische Sportbewegung,Versammlung,in Arbeit,nein,nein,nein,nein,0,236840
+Gröschel,Fritz,männlich,28.11.1900,Landau,Frankenthal,unter 3,,Bankbeamter,Justizangestellter,Landgerichtsbote,,,in Arbeit,nein,mehrmals,mehrmals,,,,288677,1930,,Propagandamaterial,in Arbeit,ja,nein,nein,ja,0,239393
+Hergimus,Fritz,männlich,25.08.1908,Insterburg,Eutin,,Volksschule,Arbeiter,Landwirt,Wanderarbeiter,,,in Arbeit,ja,mehrmals,mehrmals,,,,,1926,Stahlhelm,,in Arbeit,nein,nein,nein,ja,0,239680
+Herzog,Fritz,männlich,27.03.1903,Reichenbach,Duisburg,mehr als 3,Volksschule,Schreiner,Schreiner,Schreinermeister,,,in Arbeit,nein,keiner,mehrmals,verheiratet,,katholisch,,1931,,Putsch,in Arbeit,nein,nein,nein,ja,0,237281
+Hafkesbrink,Fritz,männlich,,Alstaden,Oberhausen,,,,,,,,,,,,,,,,1931,,,,,,,nein,0,236274
+Hunn,Fritz,männlich,25.09.1899,Wiesbaden,Wiesbaden,keiner,Volksschule,Gärtner,Gärtner,Gärtner,,4,in Arbeit,nein,keiner,,verheiratet,1,,132388,1929,,Putsch,in Arbeit,ja,ja,ja,nein,0,238024
+Junghanss,Fritz,männlich,08.11.1900,Hamburg,Berlin,mehr als 3,Gymnasium,Kaufmann,Kaufmann,Prokurist,marxistisch,1,in Arbeit,nein,keiner,mehrmals,,,,,1929,,,in Arbeit,ja,nein,ja,nein,0,239766
+Keppner,Fritz,männlich,23.05.1901,Pirmasens,Pirmasens,keiner,Volksschule,,,Malermeister,,,,,,,,,evangelisch,,1924,,Kamerad,,nein,nein,,nein,0,239333
+Leixner,Fritz,männlich,17.09.1899,Miesenbach,Miesenbach,unter 3,Volksschule,Tagelöhner,Streckenarbeiter,Hüttenarbeiter,,,in Arbeit,ja,mehrmals,mehrmals,,,,,1929,,Propagandamaterial,arbeitslos,ja,nein,nein,nein,0,239470
+Linde,Fritz,männlich,,,Berlin,unter 3,,,,,national,,,,,,,,,385890,1930,DVFP,Kamerad,,ja,ja,nein,nein,0,236560
+Rosolowsky,Fritz,männlich,21.07.1893,Georgenburgkehlen,Schönwaldau,unter 3,Volksschule,Schmied,Landwirt,Schmiedemeister,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1930,,,in Arbeit,ja,ja,nein,ja,0,239684
+Schroner,Fritz,männlich,15.01.1893,,,,Studium,Lehrer,,,,7,,,,keiner,,,,,,,,,ja,nein,nein,nein,0,238773
+Schulte,Fritz,männlich,30.04.1900,Dorstfeld,Dinslaken,mehr als 3,Studium,Lehrer,Kreisschulrat,Lehrer,,2,in Arbeit,nein,mehrmals,mehrmals,,,katholisch,,1922,DNVP,Versammlung,in Arbeit,nein,nein,nein,nein,0,236363
+Vogel ,Fritz,männlich,30.03.1911,Heiligenbeil,Grünheide,unter 3,Mittlere Reife,Verwaltungssekretär,,Müllermeister,,,in Arbeit,nein,keiner,mehrmals,,,evangelisch,,1929,,,in Arbeit,nein,nein,nein,ja,0,239682
+Zabel,Fritz,männlich,19.12.1878,Perleborg,Berlin,unter 3,Bürgerschule,Soldat,Kommunalbeamter,Eisenbahnzugführer,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,evangelisch,660590,1931,DVFP,,in Arbeit,ja,nein,nein,nein,0,238671
+Goretzki,Georg,männlich,29.01.1897,Kattowitz,Berlin,mehr als 3,Oberrealschule,Bautechniker,Regierungsbauinspektor,Rechnungsrat,national,2,in Arbeit,nein,mehrmals,mehrmals,,,katholisch,,1931,Völkischer Schutz- und Trutzbund,,in Arbeit,ja,ja,nein,nein,0,238413
+Hilger,G ,männlich,26.04.1884,Seifersdorf,Berlin,unter 3,Volksschule,Landwirt,Regierungsinspektor,Stellmachermeister,sozialdemokratisch,3,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,evangelisch,1011642,1930,,Versammlung,in Arbeit,ja,nein,nein,nein,0,238430
+Meyer,G,männlich,20.07.1872,Xanten,Kleve,unter 3,,Landwirt,,Landwirt,,9,arbeitslos,ja,mehrmals,mehrmals,verheiratet,3,katholisch,,1926,,Familie,in Arbeit,ja,ja,nein,nein,0,236810
+Ahlemann,Georg,männlich,15.01.1911,Havelberg,Neuruppin,mehr als 3,Realschule,,,Glasermeister,national,1,in Arbeit,ja,,mehrmals,,,evangelisch,,1929,Wehrwolf,Kamerad,in Arbeit,nein,nein,nein,ja,0,239578
+Deutscher,Georg,männlich,27.12.1878,Königshütte,Berlin,mehr als 3,Gymnasium,Verwaltung,Rendant,Fahrsteiger,,4,in Arbeit,nein,keiner,mehrmals,,,,,1933,,,in Arbeit,ja,nein,nein,ja,0,236983
+Fässig,Georg,männlich,20.08.1889,Berlin,Offenbach,mehr als 3,Kommunalschule,Postangestellter,Wohlfahrtsangestellter,Werkmeister,,1,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,,187012,1930,DNVP,Putsch,in Arbeit,ja,nein,nein,ja,0,237925
+Hauser,Georg,männlich,25.10.1885,Berlin,Berlin,keiner,Gemeindeschule,Anlagenbauer,,,,,in Arbeit,ja,keiner,mehrmals,verheiratet,6,,,1932,DVP,,in Arbeit,nein,nein,nein,ja,0,239843
+Köhrbrück,Georg,männlich,22.12.1891,Berlin,Berlin,keiner,Realschule,Justizinspektor,Beamter,Kanzleirat,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,88847,1923,DVFP,Zeitung,in Arbeit,nein,nein,nein,nein,0,238538
+Kreidl,Georg,männlich,15.08.1873,Nassau,Nassau,mehr als 3,Volksschule,Schreiner,Schreinermeister,Schreinermeister,,,in Arbeit,nein,keiner,mehrmals,verheiratet,,,36325,1926,DVFP,,in Arbeit,ja,nein,nein,nein,0,239322
+Lauermann,Georg,männlich,17.11.1904,Berlin,Berlin,mehr als 3,Gemeindeschule,Friseur,,Kaufmann,,,,,mehrmals,mehrmals,,,evangelisch,,1930,Deutschvölkischer Turnverein,,,nein,nein,nein,ja,0,239903
+Lossau,Georg,männlich,,,Berlin,keiner,,Soldat,Beamter,,,4,in Arbeit,nein,keiner,mehrmals,verheiratet,1,katholisch,,1924,Vaterländischer Volksbund,,in Arbeit,ja,ja,nein,nein,0,236789
+Mönnicke,Georg,männlich,03.07.1914,Kutschendorf,Schwiebus,mehr als 3,Volksschule,Fleischer,Bahnbeamter,Schlosser,national,,in Arbeit,ja,mehrmals,mehrmals,,,evangelisch,,1932,,Familie,arbeitslos,nein,nein,nein,ja,0,239609
+Schmidt,Georg,männlich,06.01.1887,Kreuzdorf,Bornitt,mehr als 3,Volksschule,Lehrer,Lehrer,Landwirt,,7,in Arbeit,nein,keiner,mehrmals,verheiratet,,,491386,1931,,Zeitung,in Arbeit,ja,ja,nein,ja,6,237776
+Spörig,Georg,männlich,,,Berlin,,,,Schornsteinfeger,,,,in Arbeit,,,,,,,,,DVFP,,,ja,nein,nein,ja,0,239883
+Sturmhoevel,Georg,männlich,17.09.1900,Wormditt,Berlin,mehr als 3,Volksschule,Verkäufer,,Mühlenwerkführer,,2,in Arbeit,ja,mehrmals,mehrmals,verheiratet,3,,,1930,DHV,Versammlung,in Arbeit,ja,nein,ja,ja,0,239941
+Winkler,Georg,männlich,15.02.1908,Nürnberg,Edenkoben,mehr als 3,Volksschule,Gärtner,Rottenarbeiter,,,,in Arbeit,ja,mehrmals,mehrmals,,,,,1929,,,arbeitslos,nein,nein,nein,nein,0,239442
+Zeidler,Georg,männlich,10.03.1893,Posen,Schafstädt,,Realgymnasium,Bankbeamter,Bankbeamter,Reichsbahn-Obersekretär,national,,in Arbeit,nein,keiner,mehrmals,,,,,1931,Stahlhelm,Versammlung,in Arbeit,ja,ja,nein,nein,0,237230
+Hinzes,Gerhard,männlich,25.04.1911,Balz,Balz,unter 3,Mittelschule,Landwirt,Hilfspolizist,Landwirt,national,,,,mehrmals,mehrmals,,,evangelisch,,1930,Stahlhelm,,,nein,nein,nein,ja,0,240168
+Kramer,Gerhard,männlich,,Berlin,Berlin,,,,,,,,,ja,,,,,,93715,1926,Wandervogel,Putsch,,nein,nein,ja,nein,0,239938
+Tarcow,Gerhard,männlich,07.08.1899,Berlin,Berlin,unter 3,Oberrealschule,Marinesoldat,Bezirksamtsmann,Goldschmiedemeister,,,in Arbeit,ja,mehrmals,mehrmals,,,evangelisch,29833,1926,Heimatwehr,,,ja,nein,ja,ja,0,239552
+von Barderleben,Gertrud,weiblich,05.08.1876,Berlin,Berlin,unter 3,Töchterschule,Pflegerin,,Professor,,,,,,,verheiratet,1,,,1931,,,,nein,nein,nein,ja,0,237557
+Michael,Gertrud,weiblich,01.01.1887,,Berlin,,,Schreibmaschinistin,Briefträgerin,Beamter,,1,in Arbeit,ja,mehrmals,mehrmals,geschieden,1,evangelisch,1400825,1932,,Familie,in Arbeit,nein,nein,nein,nein,0,240008
+Klinger,Gottfried,männlich,13.06.1893,München,Moers,mehr als 3,,Baumeister,Industrieangestellter,Baumeister,,3,in Arbeit,nein,mehrmals,mehrmals,verheiratet,3,katholisch,,1925,DVFP,Kollege,in Arbeit,ja,ja,nein,nein,0,236849
+Raunis,Gottfried,männlich,01.01.1893,Brandenburg,Duisburg,mehr als 3,Gymnasium,Maurer,,Lehrer,national,,,,,,,,,,,,,,ja,nein,nein,nein,0,236345
+Bartling,Gottlieb,männlich,12.12.1909,Halle,Halle,unter 3,Realgymnasium,Kaufmann,Kaufmann,Bankbeamter,,,in Arbeit,ja,keiner,mehrmals,,,,,1930,,Versammlung,in Arbeit,nein,nein,nein,nein,0,237200
+von Dyck,Peter,männlich,11.04.1892,Russland,Halberstadt,mehr als 3,Kadettenanstalt,Soldat,Privatier,Graf,,,Privatier,Privatier,keiner,mehrmals,,,evangelisch,,1926,Stahlhelm,Versammlung,Privatier,ja,ja,ja,nein,0,237236
+Kirchner,Grete,weiblich,01.01.1909,Essen,Essen,mehr als 3,Einjähriges,Kaufmann,,Kaufmann,sozialdemokratisch,,,,keiner,mehrmals,,,,,1930,,Versammlung,,nein,nein,nein,nein,0,236565
+Eggebrecht,Günther,männlich,08.07.1904,Stassfurt,Stassfurt,mehr als 3,Gymnasium,,,Pfarrer,national,,,,,mehrmals,verheiratet,,katholisch,,1931,Völkischer Schutz- und Trutzbund,,,nein,nein,ja,nein,0,236581
+Bemeiker,Gustav,männlich,16.04.1877,Szillen,Ragnit,mehr als 3,Volksschule,Schmied,Maschinenmeister,Schmiedemeister,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,567295,1930,,,in Arbeit,nein,nein,nein,nein,0,238929
+Grahlow,Gustav,männlich,15.06.1901,Kutzdorfer Eisenhammer,Neudamm,unter 3,Realgymnasium,Lehrer,Lehrer,Lehrer,,,in Arbeit,nein,keiner,keiner,verheiratet,,,,1932,Wehrwolf,Verein,in Arbeit,nein,nein,nein,ja,0,239635
+Heinsch,Gustav,männlich,17.08.1890,Dittersbach,Berlin,mehr als 3,Volksschule,Diener,Diener,Gärtner,national,4,,,mehrmals,mehrmals,verheiratet,1,,430159,1931,DVFP,Putsch,in Arbeit,ja,nein,ja,nein,0,237293
+Kelch,Gustav,männlich,30.08.1890,Paterswalde,Posilge,unter 3,Volksschule,Arbeiter,,,,,arbeitslos,ja,mehrmals,mehrmals,verheiratet,4,evangelisch,,1932,,Versammlung,arbeitslos,ja,nein,nein,ja,0,238912
+Kohlenberg,Gustav,männlich,16.05.1907,Duisburg,Duisburg,unter 3,Obersekundareife,Sekretär,Obersekretär,Kaufmann,national,6,in Arbeit,nein,keiner,mehrmals,,,,,1929,,,in Arbeit,nein,nein,nein,nein,0,236287
+Lipske,Gustav,männlich,27.11.1887,Leipeningken,Insterburg,mehr als 3,Volksschule,Kutscher,Polizist,Verwalter,,,in Arbeit,ja,mehrmals,mehrmals,,,evangelisch,95695,1926,,,in Arbeit,ja,ja,ja,ja,0,239718
+Mielenz,Gustav,männlich,02.10.1890,Zechin,Berlin,mehr als 3,Volksschule,Rechtsanwaltsgehilfe,Kriminalkommissar,,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,evangelisch,,1932,,Kamerad,in Arbeit,ja,ja,nein,ja,0,237510
+Niemzick,Gustav,männlich,17.02.1872,Lyck,Insterburg,mehr als 3,Mittelschule,Kaufmann,Amtsmann,Bäckermeister,,2,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,,15573,1925,DHV,Putsch,in Arbeit,ja,nein,nein,ja,0,239676
+Ronacker,Gustav,männlich,02.06.1892,Blumenfeld,Pillkallen,unter 3,Volksschule,Landwirt,Eisenbahner,Kleinbesitzer,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,3,evangelisch,18953,1925,DVFP,,in Arbeit,ja,nein,nein,ja,0,239686
+Skrieme,Gustav,männlich,16.09.1886,Bunzlau,Oschersleben,mehr als 3,Gymnasium,Holzbildhauer,,Musiker,,12,,,mehrmals,mehrmals,,,,,,,Putsch,,nein,nein,nein,nein,0,237145
+Zimmermann,Gustav,männlich,01.01.1872,Herzogswalde,Halle,mehr als 3,Volksschule,Kaufmann,Kaufmann,Besitzer,,2,in Arbeit,nein,keiner,mehrmals,verheiratet,,,,,,,in Arbeit,ja,nein,nein,ja,0,237390
+Schieferstein,H,männlich,,Frankfurt,Frankfurt,unter 3,Mittelschule,Kaufmann,Kaufmann,,,,,,keiner,mehrmals,,,,,,,Versammlung,in Arbeit,ja,ja,nein,nein,0,239063
+Schönbohm,H,männlich,10.11.1882,Ottendorf Butin,Frankfurt,mehr als 3,,Soldat,Amtswalter,Arbeiter,,,in Arbeit,ja,mehrmals,mehrmals,,,,5278,1925,,Zeitung,in Arbeit,ja,nein,nein,nein,0,237973
+Borgwardt,Hans,männlich,15.10.1879,Steglitz,Berlin,keiner,Volksschule,Konditor,Konditor,,,,in Arbeit,nein,keiner,mehrmals,verheiratet,3,evangelisch,99805,1928,,Kunden,in Arbeit,ja,ja,nein,nein,0,239542
+Dimold,Hans,männlich,14.02.1909,Regensburg,Soldin,mehr als 3,Volksschule,Gärtner,Gärtner,Musiker,,,in Arbeit,ja,mehrmals,mehrmals,,,,,1929,,Kamerad,in Ausbildung,nein,nein,nein,ja,0,239612
+Haas,Hans,männlich,09.08.1899,Gloch,Gloch,keiner,Realgymnasium,Kaufmann,Kaufmann,Lehrer,zentrum,4,,,,,,,katholisch,6949,1922,,Kamerad,in Arbeit,ja,ja,nein,nein,0,236826
+Hora,Hans,männlich,26.05.1895,Merlach,Speyer,mehr als 3,Gymnasium,Lehrer,Lehrer,Lehrer,völkisch,,in Arbeit,nein,keiner,keiner,,,,,1924,,Propagandamaterial,in Arbeit,ja,ja,nein,ja,0,239075
+Jäger,Hans,männlich,02.08.1909,Atterhausen,Atterhausen,mehr als 3,Volksschule,Landwirt,Landwirt,Landwirt,,,in Arbeit,nein,keiner,mehrmals,,,,,1931,,Putsch,in Arbeit,nein,nein,nein,ja,0,237438
+Müller,Hans,männlich,,Düsseldorf,Düsseldorf,,,,,,,,,,,,,,,55,1933,,Versammlung,,ja,ja,nein,nein,0,236593
+Plath,Hans,männlich,26.09.1911,,Magdeburg,,,Kaufmann,,,,,in Arbeit,ja,,mehrmals,,,,101910,1929,,Putsch,in Arbeit,nein,nein,nein,nein,0,237258
+Richter,Hans,männlich,,Berlin,Berlin,mehr als 3,Abitur,Bergmann,Bergbauingenieur,Oberlehrer,,,,,,mehrmals,,,evangelisch,,1932,Stahlhelm,Putsch,,ja,nein,ja,ja,8,239791
+Schönherr,Hans,männlich,25.12.1897,,Wiesbaden,mehr als 3,,Lehrer,Lehrer,,,,in Arbeit,nein,keiner,mehrmals,verheiratet,1,evangelisch,293778,1930,,Verein,in Arbeit,ja,ja,nein,nein,0,238015
+Schumacher,Hans,männlich,22.09.1904,Steinbach,Cochem,mehr als 3,Volksschule,Bankkaufmann,Katastertechniker,Bergmann,,6,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,katholisch,220082,1930,DNVP,Kamerad,arbeitslos,nein,nein,nein,nein,0,236902
+Teubner,Hans,männlich,01.01.1886,Berlin,Berlin,unter 3,Volksschule,Kaufmann,Justizsekretär,Buchhalter,antisemit,4,in Arbeit,nein,keiner,mehrmals,,,,,1929,DSP,,in Arbeit,ja,nein,ja,nein,0,238544
+Thaysen,Hans,männlich,28.12.1900,Bremen,Wittenberg,mehr als 3,Volksschule,Maler,,Kaufmann,,2,in Arbeit,ja,mehrmals,mehrmals,,,,,1926,,Putsch,arbeitslos,ja,nein,ja,nein,0,237187
+Berthold,Hans,männlich,11.09.1871,,Berlin,mehr als 3,Realgymnasium,Soldat,,,national,1,,,mehrmals,mehrmals,,,katholisch,180965,1932,Völkischer Schutz- und Trutzbund,,,ja,nein,nein,nein,0,236743
+Harder,,männlich,,,Berlin,mehr als 3,,Missionar,Redner,,,,,ja,mehrmals,mehrmals,,,evangelisch,,1932,DNVP,,,,,,nein,0,238244
+Eggert,Hedwig,weiblich,17.01.1897,Grünberg,Berlin,unter 3,Volksschule,Fabrikarbeiter,Zeitungsverkäufer,Webermeister,,10,in Arbeit,ja,mehrmals,mehrmals,geschieden,1,,88121,1928,,Putsch,in Arbeit,nein,nein,nein,ja,0,239530
+Bauder,Heinrich,männlich,24.11.1881,Hamburg,Berlin,mehr als 3,Mittelschule,Mechaniker,Arbeitsvermittler,Stadtmissionar,national,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,2,,172213,1929,Schwarze Reichswehr,,arbeitslos,ja,ja,ja,ja,0,239899
+Becker,Heinrich,männlich,17.06.1891,Veckerhagen,Veckerhagen,unter 3,Volksschule,Schmied,Schmied,Schmiedemeister,national,8,in Arbeit,nein,keiner,keiner,,,,,1932,Jungdeutscher Orden,,in Arbeit,ja,nein,nein,nein,0,236513
+Brüßler,Heinrich,männlich,01.01.1910,Eisenach,Berlin,,Abitur,Journalist,Journalist,Beamter,,,in Arbeit,nein,keiner,keiner,,,,708157,1931,,Kamerad,in Ausbildung,nein,nein,nein,nein,0,239820
+Dinse,Heinrich,männlich,01.01.1876,Berlin,Berlin,keiner,,Orgelbaumeister,Orgelbaumeister,Orgelbaumeister,,,in Arbeit,nein,keiner,keiner,verheiratet,2,,,1932,,Familie,in Arbeit,ja,nein,nein,nein,0,236612
+Dörnhaus,Heinrich,männlich,08.12.1910,Mühlheim ad Ruhr,Mühlheim ad Ruhr,,Mittelschule,Kaufmann,Kaufmann,Kaufmann,,,in Arbeit,nein,keiner,keiner,,,,237971,1929,,Versammlung,in Ausbildung,nein,nein,nein,nein,0,236261
+Haar,Heinrich,männlich,20.06.1878,Sohrau,Berlin,unter 3,Volksschule,Maurer,Maurer,Maurerpolier,,,arbeitslos,ja,keiner,mehrmals,,,,561268,1931,,Versammlung,arbeitslos,ja,nein,nein,ja,0,237679
+Gölz,Heinrich,männlich,03.12.1895,Affolterbach,Unter-Mossau,unter 3,Volksschule,Zimmerer,Zimmerermeister,Landwirt,konservativ,6,in Arbeit,nein,keiner,mehrmals,verheiratet,,,,1928,Stahlhelm,Versammlung,in Arbeit,ja,ja,nein,ja,0,239996
+Kiefer ,Heinrich,männlich,26.04.1898,Duisburg,Duisburg,keiner,Volksschule,Maurer,Bauführer,Bauunternehmer,,2,in Arbeit,ja,keiner,mehrmals,verheiratet,1,,,1926,Wehrsport,Zeitung,in Arbeit,ja,nein,nein,ja,0,237324
+Luthe ,Heinrich,männlich,21.10.1900,Goldbeck,Immenhausen,mehr als 3,Gymnasium,Bankkaufmann,,Betriebsleiter,,,,,mehrmals,mehrmals,verheiratet,,,,,Jungdeutscher Orden,,,ja,nein,nein,ja,0,237471
+Mayer,Heinrich,männlich,26.11.1902,Ansbach,Landau,mehr als 3,Volksschule,Gärtner,Hausmeister,Bäcker,,,in Arbeit,,mehrmals,mehrmals,verheiratet,1,,,1926,,Versammlung,,nein,nein,nein,nein,0,239369
+Müller,Heinrich,männlich,21.03.1906,Langenbach,Langenbach,keiner,Volksschule,Schreiner,Schreinermeister,Schreinermeister,,,in Arbeit,nein,keiner,mehrmals,,,,,1929,,Putsch,in Arbeit,nein,nein,nein,ja,0,238165
+Pickl,Heinrich,männlich,07.05.1906,Landsweiler,Gries,mehr als 3,Volksschule,Bergmann,Hilfsstrassenwart,Bergmann,,,in Arbeit,ja,mehrmals,mehrmals,,,,,1928,Artamanen,Kamerad,arbeitslos,nein,nein,nein,ja,0,239472
+Potz,Heinrich,männlich,,Rheydt,Cleve,mehr als 3,,Soldat,,,,0,,,mehrmals,mehrmals,,,,,1931,,Versammlung,in Arbeit,ja,ja,nein,nein,0,236813
+Reichwald,Heinrich,männlich,18.05.1903,Döhren,Döhren,keiner,Studium,Landwirt,Landwirt,Landwirt,national,1,in Arbeit,nein,keiner,keiner,,,,482466,1931,Jungdeutscher Orden,Familie,in Arbeit,nein,nein,nein,nein,0,237243
+Remjul,Heinrich,männlich,03.11.1894,Laase,Pasilge,mehr als 3,Abitur,,Zellenmeister,Wirt,,,,,,,verheiratet,2,,,1932,DVFP,,,ja,ja,nein,ja,0,238901
+Wenzel,Heinrich,männlich,17.01.1907,Wallburg,Eschenstrud,unter 3,Oberrealschule,Verwaltungsangestellter,Verwaltungsangestellter,Lehrer,national,1,in Arbeit,nein,keiner,mehrmals,,,christlich,,1932,,,in Arbeit,nein,nein,nein,ja,0,237448
+Wilmskötter,Heinrich,männlich,03.03.1908,Oberhausen,Oberhausen,keiner,Oberrealschule,Gärtner,Gärtner,Gartenmeisters,national,5,in Arbeit,nein,keiner,keiner,verheiratet,1,,,1930,DNVP,Putsch,in Arbeit,nein,nein,nein,nein,0,236263
+Bock,Heinz,männlich,02.12.1905,Berlin,Berlin,unter 3,Mittelschule,Gärtner,,Möbelfabrikant,,,,,,,,,,,1922,,Aufmarsch,in Ausbildung,nein,nein,nein,nein,>30,239561
+Fuhrmann,Heinz,männlich,30.10.1909,Leipzig,Stecklenberg,mehr als 3,Oberrealschule,Konditor,Hilfspolizist,Lokomotivführer,,4,in Arbeit,ja,mehrmals,mehrmals,,,,98838,1928,,Versammlung,in Ausbildung,nein,nein,nein,nein,0,237153
+Gefaeller,Heinz,männlich,01.01.1909,Tilsit,Tilsit,mehr als 3,Gymnasium,Landwirt,Landwirt,Landwirt,,,in Arbeit,ja,mehrmals,mehrmals,,,,,1931,,,in Arbeit,nein,nein,nein,nein,0,236661
+Goldgrebe,Heinz,männlich,02.11.1914,Berlin,Berlin,keiner,Volksschule,Maschinenschlosser,Maschinenschlosser,Arbeiter,,,in Ausbildung,nein,keiner,mehrmals,,,,110431,1932,Arbeiter-Turnverein,Kamerad,in Ausbildung,nein,nein,nein,ja,0,239804
+Haßmann,Heinz,männlich,25.03.1907,Ansbach,Berlin,mehr als 3,Gymnasium,Jurist,Regierungsrat,Oberforstmeister,,,in Arbeit,nein,keiner,mehrmals,,,evangelisch,,1923,Jungdeutscher Orden,,in Ausbildung,nein,nein,nein,nein,0,236531
+Mai,Heinz,männlich,03.10.1907,Orb,Frankfurt,unter 3,Volksschule,Kaufmann,Kaufmann,Kaufmann,,4,in Arbeit,nein,keiner,mehrmals,,,,76236,1928,Jungsturm,Putsch,in Arbeit,nein,nein,nein,nein,0,240154
+Radtke,Helene,weiblich,04.05.1896,Holzheim,Darmstadt,mehr als 3,Volksschule,,Hausfrau,Bahnhofsvorsteher,,,arbeitslos,ja,,mehrmals,verheiratet,2,katholisch,218054,1929,,Versammlung,arbeitslos,nein,nein,nein,nein,0,238076
+de Sall,Helmut,männlich,,,Berlin,,,,,Beamter,,,,,,,,,,561845,1931,DNVP,Kamerad,,nein,nein,nein,ja,0,240000
+Flörke,Helmuth,männlich,,,Calbe,mehr als 3,,,Bürgermeister,,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,,8646,1922,,,in Arbeit,ja,nein,ja,nein,0,237808
+Mateske,Helmut,männlich,09.01.1898,Putzighauland,Berlin,mehr als 3,Obersekundareife,Bahnbeamter,Reichsbahnsekretär,Landwirt,,7,in Arbeit,nein,mehrmals,mehrmals,,,evangelisch,319369,1930,,Putsch,in Arbeit,ja,nein,nein,ja,0,239523
+von Goldbeck,Helmuth,männlich,30.05.1893,Lingnitz,Berlin,mehr als 3,Gymnasium,Soldat,Behördenangestellter,Landgerichtspräsident,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,2,,,1931,,,in Arbeit,ja,nein,ja,ja,0,237546
+Böhme,Herbert,männlich,,,Berlin,,,,Beamter,,,,in Arbeit,nein,,,verheiratet,,,,1927,,Führer,in Arbeit,,,nein,nein,0,238584
+Fuchs,Herbert,männlich,,,,mehr als 3,,Hochbautechniker,,Bildhauer,,,,,mehrmals,mehrmals,,,,,1931,Schwarze Reichswehr,,,nein,nein,nein,ja,0,238048
+Huth,Herbert,männlich,,,Berlin,,,,Propagandaministerium,,,,in Arbeit,ja,mehrmals,mehrmals,,,,4379,1925,Stahlhelm,,,ja,nein,ja,ja,0,238215
+Neumann,Herbert,männlich,24.02.1901,Weichselburg,Posilge,keiner,Volksschule,Landwirt,Landwirt,Landwirt,,2,in Arbeit,nein,keiner,keiner,verheiratet,2,evangelisch,,1932,,,in Arbeit,nein,nein,nein,ja,0,238899
+Sorge,Herbert,männlich,25.10.1911,Berlin,Berlin,mehr als 3,Volksschule,Läufer,Lohndiener,Postbeamter,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1932,Stahlhelm,,in Arbeit,nein,nein,nein,ja,0,240038
+Axmann,Hermann,männlich,23.01.1880,Breslau,Genthin,unter 3,Volksschule,Zimmerer,Polizist,Eisenbahnhilfsbremser,,17,in Rente,nein,mehrmals,mehrmals,verheiratet,7,,162849,1928,,,in Rente,ja,nein,nein,nein,0,237254
+Führbach,Hermann,männlich,09.12.1907,Mühlheim ad Ruhr,Mühlheim ad Ruhr,keiner,Volksschule,Former,,Bauunternehmer,,2,in Arbeit,ja,mehrmals,mehrmals,,,katholisch,,1925,Wehrvolk Aar,Putsch,in Ausbildung,nein,nein,nein,nein,0,238769
+Hanisch,Hermann,männlich,15.10.1902,Bochum,Witten,unter 3,Volksschule,Bäcker,Bäckermeister,Maschinist,,1,in Arbeit,nein,keiner,mehrmals,verheiratet,,,,1930,Gewerkschaft,Versammlung,in Arbeit,nein,nein,nein,ja,0,237378
+Herx,Hermann,männlich,15.06.1908,Düsseldorf,Cochem,mehr als 3,Gymnasium,Techniker,Tankstellenwart,Giesser,,3,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,,,1930,Wandergruppe,Kamerad,in Arbeit,nein,nein,nein,nein,0,236883
+Jung,Hermann,männlich,14.02.1908,Kaiserslautern,Kaiserslautern,,Volksschule,Zimmerer,,Maurermeister,,,,,,,,,,57801,1927,,Kamerad,in Ausbildung,nein,nein,nein,nein,0,239336
+Kleinfeld,Hermann,männlich,31.03.1896,Brandenburg,Duisburg,mehr als 3,Realgymnasium,Bauhändler,Bauhändler,Bäckermeister,,,in Arbeit,nein,keiner,mehrmals,,,,,1928,DNVP,Kamerad,in Arbeit,ja,nein,ja,nein,0,236268
+Kreye,Hermann,männlich,12.04.1910,Quedlinburg,Berlin,unter 3,Gemeindeschule,Maurer,,Tischlermeister,,,in Arbeit,nein,keiner,mehrmals,,,evangelisch,,1929,,Kamerad,in Arbeit,nein,nein,nein,nein,0,239913
+Müller,Hermann,männlich,24.12.1876,Berlin,Berlin,mehr als 3,Realschule,Klempner,Hilfsarbeiter,Klempnermeister,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,2,,,1931,Stahlhelm,Mein Kampf,arbeitslos,ja,nein,nein,nein,0,238399
+Nieswand,Hermann,männlich,26.10.1889,Trunz,Marienburg,mehr als 3,Volksschule,Landwirt,Reichsbahnbeamter,Tischler,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,evangelisch,668338,1931,,,in Arbeit,ja,ja,nein,nein,0,237754
+Reinhard ,Hermann,männlich,,Seesen,Halle,,,,,,,,,,,,verheiratet,,,,1932,,,,ja,ja,nein,nein,0,236496
+Schlenk,Hermann,männlich,14.08.1907,Russnim,Beynersdorf,unter 3,Volksschule,Landwirt,Landwirt,Schmiedemüller,,4,in Arbeit,nein,keiner,mehrmals,,,evangelisch,,1931,,Versammlung,in Arbeit,nein,nein,nein,ja,0,238937
+Sprung,Hermann,männlich,20.05.1888,Halle,Halle,mehr als 3,Volksschule,Fleischer,Hausschlachter,Schiffer,,2,in Arbeit,nein,mehrmals,mehrmals,verheiratet,3,,,1931,,,in Arbeit,ja,ja,nein,ja,0,237399
+Thomas,Hermann,männlich,09.11.1909,Züllichau,Züllichau,mehr als 3,Gymnasium,Bäcker,Bäcker,Bäckermeister,,,in Arbeit,nein,keiner,mehrmals,,,,,1931,,SA,in Arbeit,nein,nein,nein,nein,0,239603
+von Greve-Dierfeld,Hermann,männlich,25.01.1869,Münster,Wittlich,mehr als 3,Abitur,Soldat,Gutsherr,Notar,zentrum,2,in Arbeit,nein,mehrmals,mehrmals,verheiratet,3,evangelisch,,1932,DNVP,,in Arbeit,ja,ja,ja,nein,0,238483
+Wischner,Hermann,männlich,25.09.1898,Magdeburg,Berlin,mehr als 3,Mittelschule,Kaufmann,Soldat,Kaufmann,,,arbeitslos,ja,mehrmals,mehrmals,,,,32466,1926,Wikkingbund,Kamerad,arbeitslos,ja,ja,ja,nein,0,238250
+von Reuss,Hertha,weiblich,,,Berlin,mehr als 3,,,,Soldat,,,,,,,,,,,,,,,nein,nein,nein,nein,0,236503
+Boehm-Stoltz,Hilde,weiblich,,,Berlin,mehr als 3,,,,,national,,,,,,verheiratet,2,,429341,,DVP,Aufmarsch,,nein,nein,nein,nein,0,236554
+Berswordt-Wallrabse,Heinz-Ludwig,männlich,31.03.1912,Buchholz,Berlin,mehr als 3,Gymnasium,,,,national,,in Ausbildung,,,,,,,320417,1930,,Kamerad,in Ausbildung,nein,nein,nein,nein,0,239306
+Hoffmann,,männlich,01.01.1898,,Berlin,unter 3,,,,,,,,,,,,,,,1930,,Propagandamaterial,,ja,nein,nein,nein,0,239887
+Wilke,Hollas,männlich,,,Kolburg,,,,,,national,,,,,,,,,,1929,,Versammlung,,nein,nein,nein,nein,0,238444
+Glehner,Horst,männlich,12.10.1912,Insterburg,Eichenwald,unter 3,Mittlere Reife,Förster,Förster,Feldwebel,,,in Arbeit,nein,keiner,mehrmals,,,,,1930,Jungsturm,,in Arbeit,nein,nein,nein,ja,0,239710
+Herzberg,Horst,männlich,05.02.1911,St. Gear,Cochem,,Oberrealschule,Kaufmann,,Schiffsinspektor,,2,arbeitslos,nein,,mehrmals,,,,,1927,Stahlhelm,Kamerad,in Ausbildung,nein,nein,nein,nein,0,236877
+Hortmann,,männlich,01.11.1895,Engter,Scheuerfeld,mehr als 3,Volksschule,Messgehilfe,Bauhändler,,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,,,1928,,Versammlung,in Arbeit,ja,ja,nein,nein,0,238325
+Schummel,Hubert,männlich,25.04.1896,Neuhof,Potsdam,mehr als 3,Realschule,Verwaltungsangestellter,Leitung Präsidialgeschäftsstelle,Förster,national,,in Arbeit,ja,keiner,mehrmals,verheiratet,5,,5692,1925,Wehrwolf,Putsch,in Arbeit,nein,nein,nein,nein,0,237067
+Bierbrauer,Hugo,männlich,03.02.1898,Oberbrombach,Oberbrombach,keiner,Volksschule,Diamantschleifer,Diamantschleifer,Landwirt,,4,in Arbeit,nein,keiner,keiner,verheiratet,,,66520,1927,,,in Arbeit,ja,nein,nein,ja,0,238862
+Doll,Hugo,männlich,,,Oberhausen,,,,,,,,,,,,,,,,,,Kamerad,,ja,ja,nein,nein,0,236280
+Fieger,Hugo,männlich,23.12.1895,Rosengarten,Rosengarten,keiner,Volksschule,Kaufmann,Mühlenwirt,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1929,Stahlhelm,Versammlung,in Arbeit,ja,ja,nein,ja,2,239738
+Lardenfork,Hugo,männlich,05.09.1896,Sandlauken,Gross Stobingen,unter 3,Volksschule,Landwirt,Landwirt,Landwirt,,,in Arbeit,nein,keiner,keiner,verheiratet,2,,295273,1930,,,in Arbeit,ja,nein,nein,ja,0,239702
+Regling,Hugo,männlich,10.06.1891,Rühstätt,Berlin,mehr als 3,Volksschule,Versicherungskaufmann,,Dammrentmeister,,5,,ja,keiner,mehrmals,verheiratet,,evangelisch,48336,1926,Wehrwolf,Mein Kampf,in Arbeit,ja,ja,nein,ja,0,239854
+Schölzki,Hugo,männlich,26.06.1905,Berlin,Berlin,keiner,Volksschule,Kaufmann,,,,,,,,,,,,,1932,,Kamerad,,nein,nein,nein,nein,0,239947
+Seiler,Hugo,männlich,,,Berlin,,,Soldat,,,,,in Rente,,,,verheiratet,2,,,1926,DVFP,Putsch,,ja,nein,nein,nein,0,236546
+Reiss,Arnold,männlich,22.08.1891,Halle,Ludwigshafen,unter 3,Volksschule,Maurer,Fabrikarbeiter,Buchhalter,,2,in Arbeit,nein,mehrmals,mehrmals,,,,,1931,,Kamerad,,nein,nein,nein,ja,0,239410
+Ackermann,Jakob,männlich,04.12.1894,Godramstein,Godramstein,unter 3,Volksschule,Zigarrenmacher,Fabrikarbeiter,Tagelöhner,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,2,katholisch,72122,1927,,,in Arbeit,ja,ja,nein,nein,0,239482
+Bösch,Jakob,männlich,02.11.1891,Mörzheim,Ilbesheim,unter 3,Volksschule,Landwirt,Landwirt,Landwirt,,,,ja,keiner,keiner,verheiratet,1,,,1930,DNVP,,arbeitslos,ja,ja,nein,ja,0,239461
+Haeser,Jakob,männlich,01.01.1879,Mittelstrimmig,Essen,unter 3,Volksschule,Bergmann,Bergmann,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1931,Gewerkschaft,,in Arbeit,ja,ja,nein,ja,0,237597
+Fischer,Jaro,männlich,01.01.1876,Österreich,Berlin,mehr als 3,,Schneider,,,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,2,,,,,Propagandamaterial,in Arbeit,ja,ja,nein,ja,0,239864
+Balser ,Johann,männlich,09.01.1885,Albach,Bettenhausen,unter 3,Volksschule,Maurermeister,Maurermeister,Polizeidiener und Landwirt,,,,,keiner,mehrmals,verheiratet,,evangelisch,,1931,,Versammlung,,ja,ja,nein,nein,0,238028
+Eckel ,Johann,männlich,12.03.1873,Zweibrücken,Pirmasens,,Volksschule,Zimmerer,,,,,arbeitslos,ja,,,verheiratet,5,,,1927,,,arbeitslos,ja,nein,nein,ja,0,239375
+Fiedler,Johann,männlich,28.03.1897,Nürnberg,Zerbst,mehr als 3,Simultanschule,Graveur,,Tapeziermeister,,,,,,,,,evangelisch,,1924,DVFP,,in Arbeit,ja,ja,nein,nein,0,237249
+Klaaßen,Johann,männlich,22.08.1886,Ladekopp,Marienburg,mehr als 3,Mittelschule,Kaufmann,Delikatessenhändler,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1930,,Propagandamaterial,in Arbeit,ja,nein,ja,nein,0,239749
+Klein,Johann,männlich,20.09.1899,Moselkern,Moselkern,unter 3,Volksschule,Stellmacher,,,,,,ja,mehrmals,mehrmals,,,,,1929,,Versammlung,arbeitslos,ja,nein,nein,ja,0,238879
+Kreuzholz,Johann,männlich,06.08.1900,Essen,Essen,unter 3,Volksschule,Sicherheitspolizist,,,,,,,mehrmals,mehrmals,,,,,1932,KPD,,,ja,nein,nein,ja,0,237601
+Leuer,Johann,männlich,23.05.1870,Münstereifel,Kaarst,unter 3,Volksschule,Landwirt,Bahnhofsvorsteher,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,katholisch,,1931,Stahlhelm,,in Arbeit,nein,nein,nein,nein,0,236596
+Pitz,Johann,männlich,01.11.1903,Kleve,Kleve,unter 3,Volksschule,Fabrikarbeiter,Fabrikarbeiter,,marxistisch,8,in Arbeit,nein,keiner,mehrmals,,,,,1929,Stahlhelm,,in Arbeit,nein,nein,nein,nein,0,236836
+Schnur,Johann,männlich,01.01.1879,Sitzerath,Sitzerath,unter 3,Volksschule,Bergmann,Bergmann,Tagelöhner,,2,in Rente,nein,mehrmals,mehrmals,verheiratet,2,katholisch,,1930,,Versammlung,in Rente,ja,nein,nein,nein,0,238841
+Scheer,Johann,männlich,02.04.1876,Szillen,Berlin,mehr als 3,Gemeindeschule,Bergmann,Amtsgehilfe,Landwirt,,5,in Arbeit,nein,mehrmals,mehrmals,verheiratet,8,,,1930,,Familie,in Arbeit,nein,nein,nein,nein,0,238632
+Scharhag,Johann,männlich,12.09.1904,Neudorf/Rhg,Rauenthal,unter 3,Volksschule,Fabrikarbeiter,Geiger,Landwirt,,,,ja,mehrmals,mehrmals,,,,,1929,,Mein Kampf,in Arbeit,nein,nein,nein,nein,0,239971
+Stuppi ,Johann,männlich,,Herne,Hannover,mehr als 3,,Schuhmacher,Schuhmachermeister,,,,in Arbeit,nein,keiner,mehrmals,verheiratet,,evangelisch,249556,1929,SPD,Versammlung,in Arbeit,ja,ja,nein,ja,0,237345
+Sturm,Johann,männlich,27.05.1903,Moselkern,Moselkern,unter 3,Volksschule,Tagelöhner,Taglöhner,Maurer,,2,arbeitslos,ja,mehrmals,mehrmals,verheiratet,,,,1929,,Kamerad,arbeitslos,nein,nein,nein,ja,0,238883
+Knust,Johannes,männlich,31.12.1888,Toisin,Berlin,mehr als 3,Gymnasium,Arzt,Arzt,Rittergutpächer,,,in Arbeit,nein,keiner,mehrmals,verheiratet,,,,1932,,,in Arbeit,ja,ja,nein,nein,0,239920
+Jordan,Johannes,männlich,05.02.1879,Neubach/Rhön,Frankfurt,unter 3,Volksschule,Kaufmann,Kaufmann,Landwirt,,3,in Arbeit,nein,keiner,mehrmals,verheiratet,3,evangelisch,,1931,DVP,,in Arbeit,ja,nein,nein,nein,0,238033
+Köhler,Johannes,männlich,19.10.1907,Stettin,Königsberg,mehr als 3,Volksschule,Bauarbeiter,Aushilfsarbeiter,Obermaschinist,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,,,1930,KPD,Versammlung,in Arbeit,nein,nein,nein,ja,0,239662
+Müller,Johannes,männlich,03.12.1912,Zeitz,Zeitz,keiner,Volksschule,Buchbinder,Buchbinder,Weichensteller,,,in Ausbildung,nein,keiner,keiner,,,,,1928,,Lehrer,in Ausbildung,nein,nein,nein,nein,0,237223
+Pantenburg,Johannes,männlich,24.03.1898,Rotthausen,Kyritz,mehr als 3,Volksschule,Schuhmacher,Fabrikarbeiter,Bergmann,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,4,,,1932,,,arbeitslos,ja,ja,ja,ja,0,239572
+Schabert,Johannes,männlich,02.06.1895,Heinersdorf,Köpenick,mehr als 3,Gymnasium,,Reichsbahnbetriebsassist,Brennermeister,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,105814,1928,DSP,Kamerad,in Arbeit,ja,ja,nein,ja,0,238784
+Jung,Josef,männlich,24.12.1911,Assmannshausen,Assmannshausen,mehr als 3,Realgymnasium,Kaufmann,,Weingutbesitzer,,,in Ausbildung,nein,keiner,mehrmals,,,,,1928,,Lehrer,in Ausbildung,nein,nein,nein,ja,0,238058
+Krause,Josef,männlich,26.11.1898,Gedaithen,Gedaithen,mehr als 3,Volksschule,Landwirt,Waldarbeiter,Kätners,,6,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1929,,,in Arbeit,ja,nein,nein,ja,0,239724
+Nirschl,Josef,männlich,20.01.1897,Schörnthal,Düsseldorf,mehr als 3,Volksschule,Friseur,Friseur,Landwirt,,11,in Arbeit,ja,keiner,mehrmals,,,katholisch,,1930,Stahlhelm,,in Arbeit,ja,ja,nein,ja,0,237630
+Rantle,Josef,männlich,19.10.1872,Rendsburg,Bad Wörrishofen,mehr als 3,Volksschule,Kaufmann,Invalide,Geometer,national,,invalide,invalide,keiner,mehrmals,,,,40821,1923,,Versammlung,invalide,ja,ja,nein,ja,0,230150
+Schenner,Josef,männlich,,Alfhausen,Hamminkeln,,,,,Landwirt,,9,,,,,,,,,1930,,Propagandamaterial,,nein,nein,nein,ja,0,237591
+Schuiz,Josef,männlich,,,Linz am Rhein,mehr als 3,Volksschule,Arbeiter,,Landsturmmann,,,arbeitslos,ja,mehrmals,mehrmals,verheiratet,2,,190729,1929,Stahlhelm,Versammlung,arbeitslos,ja,nein,nein,nein,0,238365
+Steinhauser,Josef,männlich,08.07.1873,Graz,Berlin,mehr als 3,Volksschule,Kaffeehausangestellter,Kaffeehausangestellter,Hotelportier,,1,arbeitslos,ja,mehrmals,mehrmals,verheiratet,,katholisch,,1928,,Putsch,in Arbeit,nein,nein,nein,ja,0,239279
+Trzarka,Josef,männlich,20.04.1904,Rohmannen,Rhein,mehr als 3,Gymnasium,Kaufmann,Aushilfe,Gastwirt,,3,in Arbeit,ja,keiner,mehrmals,,,,,1929,Stahlhelm,Versammlung,,nein,nein,nein,ja,0,237762
+Gebert,Julius,männlich,29.09.1883,Hennseberg,Potsdam,unter 3,Volksschule,Fleischer,Ober-Geldzähler,Fleischermeister,,,in Arbeit,,mehrmals,mehrmals,,,evangelisch,220911,1926,,,in Arbeit,ja,nein,nein,nein,0,237061
+Bennewitz,Karl,männlich,01.01.1886,,Berlin,mehr als 3,,Soldat,Landesinspektor,,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,,,1931,,,in Arbeit,ja,nein,nein,nein,0,238663
+Brandt,Karl,männlich,22.04.1900,Hagenau,Halle,unter 3,Abitur,Kaufmann,,,,,,,mehrmals,mehrmals,verheiratet,,,,1923,,,,ja,nein,nein,nein,0,237182
+Fischer,Karl,männlich,21.01.1890,Duisburg,Duisburg,mehr als 3,Volksschule,Kaufmann,Stadtverwaltung,Maschinenmeister,,8,in Arbeit,nein,mehrmals,mehrmals,,,,,1930,Völkischer Schutz- und Trutzbund,Versammlung,in Arbeit,ja,nein,ja,nein,0,236320
+Fleck,Karl,männlich,18.01.1890,Frankfurt Oder,Berlin,unter 3,Realgymnasium,Justizobersekretär,Justizamtsmann,Lehrer,,4,in Arbeit,nein,keiner,mehrmals,,,,,,,,in Arbeit,ja,nein,nein,ja,0,237019
+Nau,Karl,männlich,03.07.1912,Weitershain,Bad-Nauheim,unter 3,Volksschule,Wagner,Bürgermeister,Bergmann,,,in Arbeit,ja,mehrmals,mehrmals,,,,,1930,,Versammlung,in Arbeit,nein,nein,nein,nein,0,239033
+Dreher,Karl,männlich,15.11.1896,Kaiserslautern,Kaiserslautern,keiner,Volksschule,Polsterer,Hilfsfürsorger,Bader,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,1,,,1927,,,in Arbeit,ja,nein,nein,nein,0,239468
+Fliethmann,Karl,männlich,04.07.1891,Frankfurt,Duisburg,,Mittelschule,Kaufmann,Provisionsvertreter,Partikulierschiffer,bürgerlich,2,in Arbeit,ja,keiner,mehrmals,verheiratet,,,,1931,DHV,,arbeitslos,ja,nein,nein,nein,0,236337
+Folning,Karl,männlich,10.01.1910,Vogelsberg,Nierstein,mehr als 3,Oberrealschule,Bankkaufmann,,Landwirt,,2,in Ausbildung,nein,mehrmals,mehrmals,,,,,1931,Grossdeutsche Jugend,,in Ausbildung,nein,nein,nein,nein,0,238097
+Geitz,Karl,männlich,25.07.1903,,Rüsselsheim,mehr als 3,Abitur,Musiker,Kontrolleur,Reichsbahnbeamter,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1923,Wandervogel,Propagandamaterial,in Ausbildung,nein,nein,nein,nein,0,239040
+Henß,Karl,männlich,29.12.1901,Frankenthal,Frankenthal,keiner,Volksschule,Schlosser,,Schlossermeister,national,,,,mehrmals,mehrmals,,,,29545,1925,DVFP,Propagandamaterial,,ja,nein,ja,ja,0,239385
+Keil,Karl,männlich,09.11.1899,Rudingshain,Rudingshain,keiner,Fortbildungsschule,Landwirt,Landwirt,Landwirt,,,in Arbeit,nein,keiner,mehrmals,,,evangelisch,,1923,Landjugendbund,Putsch,in Arbeit,ja,nein,nein,nein,0,240083
+Kell,Karl,männlich,05.07.1903,Stettin,Königsberg,mehr als 3,Volksschule,Arbeiter,,,,,,,mehrmals,mehrmals,verheiratet,,,,1932,Schwarze Reichswehr,Versammlung,,nein,nein,ja,ja,0,239656
+Liebelenz,Karl,männlich,24.10.1884,Kassel,,keiner,Volksschule,Wasserbauarbeiter,Landwirt,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,6,,,1932,,Propagandamaterial,in Arbeit,ja,nein,nein,ja,0,237446
+Müller,Karl Heinrich,männlich,25.04.1869,Wiesbaden,Langen,mehr als 3,,Maschinenbauer,Reichsbahnbeamter,Forstamtmann,national,7,in Rente,nein,mehrmals,mehrmals,,1,,,1930,,,in Rente,nein,nein,nein,ja,0,238995
+Münch,Karl,männlich,02.05.1898,Mannheim,Landau,mehr als 3,,,,Arbeiter,marxistisch,,,,,mehrmals,,,,,1929,SPD,Versammlung,,nein,nein,nein,nein,0,239450
+Nüss ,Karl,männlich,16.12.1905,Greifenberg,Berlin,mehr als 3,Volksschule,Bäcker,Konditor,,,,in Arbeit,ja,keiner,mehrmals,,,,522805,1930,,Versammlung,in Arbeit,nein,nein,nein,nein,0,238313
+Zottmann,Karl,männlich,01.01.1910,,Gardelegen,,,,,,,,,,,,,,,,,,Versammlung,,nein,nein,nein,nein,0,237802
+Puff,Karl,männlich,01.01.1903,,Kleve,mehr als 3,Abitur,Jurist,,Landwirt,,5,,,keiner,,,,,,1927,Jungdeutscher Orden,Kamerad,in Ausbildung,nein,nein,nein,nein,0,236820
+Schade,Karl,männlich,31.12.1908,Wolfhagen,Wolfhagen,unter 3,Mittelschule,Verwaltungsangestellter,,Friseur,,,in Arbeit,,,,,,,,,Jungsturm,Versammlung,in Arbeit,nein,nein,nein,nein,0,236511
+Schlee,Karl,männlich,16.05.1902,Elberfeld,Neustadt/Haardt,mehr als 3,Volksschule,Kaufmann,Reisevertreter,Händler,,2,in Arbeit,nein,keiner,mehrmals,,,,,1925,DVFP,,in Arbeit,nein,nein,nein,nein,0,237871
+Schotten,Karl,männlich,03.09.1899,Burkhards,Burkhards,keiner,Fortbildungsschule,Landwirt,Landwirt,Zimmerer,,,in Arbeit,nein,keiner,keiner,verheiratet,2,,209168,1930,Jungdeutscher Orden,,in Arbeit,ja,nein,nein,ja,0,239957
+Schuck,Karl,männlich,03.04.1898,Neuendorf,Fischhausen,unter 3,Volksschule,Landwirt,,,,,arbeitslos,ja,,mehrmals,,,,,1929,,Kamerad,in Arbeit,ja,nein,nein,nein,0,236705
+Schuhmacher,Karl,männlich,01.01.1895,München,Ludwigshafen,mehr als 3,Volksschule,Kaufmann,Verwaltungsangestellter,Expedient,national,2,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,76275,1927,DHV,Putsch,in Arbeit,ja,nein,nein,nein,0,239419
+Waldmann,Karl,männlich,21.05.1878,Augustwalde,Berlin,mehr als 3,Mittelschule,Bürogehilfe,Postsekretär,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,,,evangelisch,,1931,SPD,Mein Kampf,in Arbeit,ja,ja,nein,ja,0,237051
+Wuttke,Karl,männlich,10.02.1907,Kaiserslautern,Kaiserslautern,unter 3,Volksschule,Schreiner,Schreiner,,,,in Arbeit,ja,keiner,mehrmals,,,,69800,1927,,Putsch,in Arbeit,nein,nein,nein,nein,0,239480
+Zacher,Karl,männlich,15.01.1896,Berlin,Berlin,unter 3,Realschule,Kaufmann,Verwaltungsangestellter,Schiffer,,,in Arbeit,nein,keiner,mehrmals,verheiratet,1,,,1932,,Versammlung,in Arbeit,ja,ja,ja,nein,0,236949
+Kaun,,männlich,21.06.1907,Berlin,Berlin,keiner,,,,Klaviergeschäft,,,,,,,,,,,1926,Brigade Erhardt,,in Ausbildung,nein,nein,ja,nein,0,238182
+Keim,,männlich,05.12.1901,Kaiserslautern,Landau,mehr als 3,Technische Staatslehranstalt,Hochbau,Baubeamter,Bäckermeister,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,29461,1925,,,in Ausbildung,nein,nein,nein,nein,0,237832
+Lyrnik,Klara,weiblich,28.10.1883,Berlin,Berlin,keiner,Gemeindeschule,Kindergärtnerin,Wohlfahrtsangestellter,Kupferschmied,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,evangelisch,5653,1925,Herold,Kamerad,in Arbeit,nein,nein,nein,ja,0,239893
+Petersson,Klara,weiblich,26.01.1892,Grünberg,Berlin,mehr als 3,Volksschule,Weberin,,Webermeister,,10,arbeitslos,ja,mehrmals,mehrmals,verheiratet,,,88307,1928,,Putsch,,nein,nein,nein,ja,>30,240130
+Schmidt,Klaus,männlich,28.09.1898,Flörsheim,Johannisburg,unter 3,Realgymnasium,Landwirt,Weinbauer,Lehrer,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1930,Kyffhäuser,Putsch,in Arbeit,ja,nein,nein,nein,0,239959
+Knaut,,männlich,,,Berlin,,,Soldat,Reichsbeamter,,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1928,,,in Arbeit,ja,ja,ja,nein,0,238821
+Koller ,Theodor,männlich,16.07.1902,Budwethen,Trakinnen,mehr als 3,Mittelschule,Landwirt,Landwirt,Landwirt,,,in Arbeit,nein,keiner,mehrmals,,,,366169,1930,,,in Arbeit,nein,nein,nein,ja,0,239706
+Höfling,Konrad,männlich,22.09.1882,Langenprozelten,Berlin,mehr als 3,Volksschule,Kellner,Cafebesitzer,Schuhmachermeister,,,in Arbeit,nein,mehrmals,mehrmals,,,,58392,1927,,Zeitung,in Arbeit,ja,nein,nein,ja,0,237541
+Kuhnekerth,,männlich,01.01.1901,,Nieukerk,,,,,,,,,,,,,,,,1927,,Kamerad,,nein,nein,nein,nein,0,236573
+Buschkowski,Kurt,männlich,01.01.1890,,Berlin,,,Soldat,Bankangestellter,,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,,,1931,,Zeitung,in Arbeit,ja,nein,nein,nein,0,238574
+Constanz,Kurt,männlich,01.01.1909,Kaiserslautern,Kaiserslautern,keiner,,,,,,,,,,,,,,69801,1927,Wandervogel,,,nein,nein,nein,ja,0,239081
+Daum,Kurt,männlich,08.06.1889,Treumark,Insterburg,mehr als 3,Mittelschule,Goldschmied,Hilfsvollziehungsbeamter,Hotelbesitzer,,3,in Arbeit,ja,mehrmals,mehrmals,,,evangelisch,96184,1928,,,,ja,ja,ja,nein,0,239722
+Eckert,Kurt,männlich,01.01.1899,,Berlin,,,,,,,,,,,,,,,,1932,,Versammlung,,ja,nein,nein,ja,0,237573
+Horn,Kurt,männlich,05.05.1908,Ludwigshafen,Ludwigshafen,mehr als 3,Mittelschule,,,Werkmeister,,,,,,,,,,98888,1928,,Mein Kampf,,nein,nein,nein,ja,0,239391
+Liebelt,Kurt,männlich,01.01.1906,Posens,Berlin,unter 3,Gymnasium,Jurist,Jurist,Postamtmann,national,,in Ausbildung,nein,keiner,mehrmals,,,,,1932,Grossdeutsche Jugend,Kamerad,in Ausbildung,nein,nein,nein,nein,0,238160
+Löcher,Kurt,männlich,01.01.1898,,Duisburg,mehr als 3,,Schiffer,Schiffereibesitzer,,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1930,Völkischer Schutz- und Trutzbund,Putsch,in Arbeit,ja,nein,nein,nein,0,236301
+Reith,Karl,männlich,07.01.1897,Renda,Renda,keiner,Volksschule,Landwirt,Landwirt,Landwirt,,,in Arbeit,nein,keiner,keiner,,,,,1929,,,in Arbeit,nein,nein,nein,ja,0,237459
+Roschewitz,Kurt,männlich,12.10.1896,Danzig,Berlin,unter 3,Volksschule,Kaufmann,,Tischlermeister,,,,ja,mehrmals,mehrmals,verheiratet,1,,,1931,Jungdeutscher Orden,,in Arbeit,ja,ja,nein,nein,0,236766
+Schertler,Kurt,männlich,01.01.1913,,,,,,,,,,in Ausbildung,,,,,,,,1929,,Aufmarsch,in Ausbildung,nein,nein,nein,nein,0,239049
+Stern,Kurt,männlich,29.07.1910,Weitzdorf,Rastenburg,keiner,Realgymnasium,Dentist,Arbeiter,Lehrer,national,3,in Arbeit,ja,mehrmals,mehrmals,,,,,1928,,Familie,in Ausbildung,nein,nein,nein,nein,0,240113
+Winkler,Kurt,männlich,30.06.1908,München,Berlin,mehr als 3,Realschule,Landwirt,Verwaltungsangestellter,Kunstmalers,,4,in Arbeit,nein,mehrmals,mehrmals,,,,,1932,Wehrsport,Putsch,in Arbeit,nein,nein,nein,nein,0,236569
+Thiel,Lothar,männlich,25.01.1905,Quirnbach,Carlsberg,mehr als 3,Gymnasium,Lehrer,,Lehrer,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1925,DVFP,Kamerad,in Arbeit,nein,nein,nein,nein,0,237850
+Aubel ,Ludwig,männlich,,,Wiesbaden,,,,,,,,,,,,,,,,1929,,Versammlung,,,,,ja,0,239953
+Kogalski,Leokardia,weiblich,,,Berlin,unter 3,,Krankenschwester,Krankenschwester,Eisenbahnbeamter,national,6,in Arbeit,nein,keiner,mehrmals,,,,,1932,,Familie,in Arbeit,ja,nein,nein,ja,0,237004
+Schneider,Lissy,weiblich,28.07.1916,Duisburg,Duisburg,keiner,Lyzeum,,,Ingenieur,,,in Ausbildung,nein,keiner,keiner,,,,,1932,NS-Schülerbund,Familie,in Ausbildung,nein,nein,nein,ja,0,237275
+Paupie,Lisi,weiblich,16.04.1891,Oberhessen,Darmstadt,mehr als 3,,Schwester,Diatschwester,Beamter,,5,in Arbeit,ja,mehrmals,mehrmals,,1,,1394006,1932,,Kamerad,in Arbeit,nein,nein,nein,ja,>30,237888
+Becker ,Ludwig,männlich,25.06.1899,,Ober-Gleen,mehr als 3,Volksschule,Soldat,Landwirt,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1929,,Versammlung,in Arbeit,ja,nein,nein,ja,0,239493
+Butz,Ludwig,männlich,20.12.1898,Albersweiler,Ludwigshafen,,Volksschule,Zimmerer,Zimmerer,,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1930,,,in Arbeit,ja,nein,nein,ja,0,239378
+Gabelmann,Ludwig,männlich,06.10.1885,Kleinbockenheim,Landau,mehr als 3,Volksschule,Soldat,,Küfermeister,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,,,1926,,Zeitung,in Arbeit,ja,nein,nein,nein,0,237860
+Kalkbrenner,Ludwig,männlich,09.09.1903,Pirmasens,Pirmasens,,Volksschule,Rusputzer,,Fabrikarbeiter,,,,,keiner,keiner,,,,,1927,,,,,,,ja,0,239342
+Rehbock ,Ludwig,männlich,01.01.1880,Göttingen,Weddel,unter 3,,Kaufmann,,Beamter,,,,,mehrmals,mehrmals,geschieden,,,,,,Mein Kampf,,ja,nein,nein,ja,0,237360
+Schneider,Ludwig,männlich,28.02.1887,Zweibrücken,Zweibrücken,,Mittelschule,Kaufmann,Tagelöhner,Bäckermeister,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,3,,,1928,,Verein,in Arbeit,ja,nein,nein,nein,0,239363
+Weber,Ludwig,männlich,30.08.1890,Frankfurt,Frankfurt,mehr als 3,Volksschule,Maschinenschlosser,,Eisendreher,sozialdemokratisch,,,ja,mehrmals,mehrmals,verheiratet,,,,1929,,Versammlung,in Arbeit,ja,nein,nein,nein,0,239046
+Maier,Magnus,männlich,05.05.1900,Hermatzen,Schwabstadl,mehr als 3,Volksschule,Landwirt,Hilfspolizist,Landwirt,,,in Arbeit,ja,mehrmals,mehrmals,,,,384375,1930,,,in Arbeit,ja,nein,nein,nein,0,239590
+Beckel,Margarete,weiblich,02.02.1879,Merseburg,Gransee,mehr als 3,Mittelschule,,,Stellmachermeister,,,,,mehrmals,mehrmals,verheiratet,,,,1932,,Familie,,nein,nein,nein,nein,0,237455
+Schrimpff,Margarethe,weiblich,16.03.1880,Kloster Lehnin,Berlin,unter 3,Höhere Töchterschule,Kaufmann,,Amtsvorsteher,,2,,,,,,,,91227,1928,,Putsch,,nein,nein,nein,nein,0,240086
+Bauer,Maria,weiblich,31.12.1860,Düsseldorf,Hannover,mehr als 3,,Kaufmann,,,königstreu,,,ja,keiner,keiner,verheiratet,2,,,1932,,,,nein,nein,nein,nein,0,236450
+Engelhardt,Maria,weiblich,23.07.1898,Frankfurt,Frankfurt,keiner,Mittelschule,Büroangestellter,Beamtin,,,,in Arbeit,nein,keiner,mehrmals,,,,98082,1925,DNVP,Putsch,in Arbeit,nein,nein,nein,nein,0,237982
+von Belli,Maria,weiblich,,,,,,,,,,,,,,,verheiratet,1,,,,,,,nein,nein,nein,nein,0,238121
+Wage,Maria,weiblich,02.03.1867,Tilsit,Tilsit,,,,,,völkisch,2,,,,,,,,10970,1925,DVFP,,,nein,nein,nein,ja,0,238925
+Wiebe,Maria,weiblich,30.11.1871,Gottswalde,Berlin,mehr als 3,Volksschule,Buchführerin,Schwester,Gutsbesitzer,,6,in Rente,nein,mehrmals,mehrmals,,,,,1928,,Putsch,in Rente,ja,ja,nein,ja,0,239497
+Horn,Maria,weiblich,,,Giessen,,,,,,,,,,,,verheiratet,,,,1929,,Zeitung,,nein,nein,nein,ja,0,239023
+Heimer,Marianne,weiblich,13.10.1906,Ruppersdorf,Berlin,mehr als 3,Mittelschule,Krankenschwester,Krankenschwester,Pastor,,6,in Arbeit,ja,keiner,mehrmals,,,evangelisch,,1931,,Versammlung,in Arbeit,nein,nein,nein,ja,0,239509
+Marleimeister,,männlich,,,Berlin,,,,,,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,1,,,1931,DHV,Kamerad,arbeitslos,ja,ja,nein,nein,0,238197
+Heder,Marlene,weiblich,01.10.1913,,Kleinenglis,unter 3,Klosterschule,,,,,1,in Ausbildung,,,,,,katholisch,,1930,,,in Ausbildung,nein,nein,nein,nein,0,236522
+Löffler,Matthes,männlich,20.09.1874,Kattenau,Goldass,mehr als 3,Abitur,Lehrer,Oberschullehrer,Landwirt,,,in Arbeit,nein,keiner,mehrmals,,,,,,,Aufmarsch,in Arbeit,ja,nein,nein,ja,0,239733
+Fritzsche,Martin,männlich,01.01.1899,Mansfelderland,Weissenfels,mehr als 3,,Verwaltungsangestellter,Beamter,,,,in Arbeit,nein,keiner,mehrmals,,,,,1925,,Kamerad,in Arbeit,ja,nein,nein,nein,0,237204
+Gruse,Marta,weiblich,01.01.1889,Bromburg,Freystadt,,Mädchenschule,,,Werkzeugfabrikant,national,2,,,,,verheiratet,,,,1930,,Familie,,nein,nein,nein,ja,0,239294
+Horn,August,männlich,,,Giessen,,,,Fahrer,,,2,in Arbeit,ja,mehrmals,mehrmals,verheiratet,1,,75000,1927,,,in Arbeit,,,,ja,0,239027
+Hoffmann,Martin,männlich,15.04.1902,Oberstein,Idar-Oberstein,unter 3,Volksschule,Hilfsarbeiter,,Bürstenmacher,,,,,mehrmals,mehrmals,,,,,1925,,Kamerad,in Arbeit,ja,nein,ja,ja,0,238856
+Lauschner,Martin,männlich,13.07.1907,Vietz,Vietz,unter 3,Volksschule,Fleischer,Fleischermeister,Fleischermeister,,,in Arbeit,nein,keiner,mehrmals,verheiratet,,evangelisch,,1930,Stahlhelm,,in Arbeit,nein,nein,nein,ja,0,239621
+Hausmann,Max,männlich,09.12.1889,Dresden,Berlin,mehr als 3,Volksschule,Schlosser,Invalide,,bürgerlich,,invalide,ja,mehrmals,mehrmals,verheiratet,,,,1932,,Putsch,arbeitslos,ja,ja,nein,nein,0,238471
+Karsties,Max,männlich,,Gendrinen,Berlin,mehr als 3,,Schlachter,Amtsgehilfe,Landwirt,,2,in Arbeit,ja,mehrmals,mehrmals,,,,,1932,,Versammlung,in Arbeit,ja,ja,ja,nein,0,238686
+Lenz,Max,männlich,12.05.1902,Prittisch,Prittisch,keiner,Dorfschule,Fleischer,Fleischer,Fleischermeister,,,in Arbeit,nein,mehrmals,mehrmals,,,evangelisch,357433,1930,Schwarze Reichswehr,,in Arbeit,nein,nein,ja,ja,0,238944
+Nagwaßus,Max,männlich,26.11.1903,Kallkappen,Kallkappen,keiner,Volksschule,Landwirt,Arbeiter,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1929,,,in Arbeit,nein,nein,nein,ja,0,239704
+Pollow,Max,männlich,19.11.1908,Berlin,Berlin,keiner,Gymnasium,Verwaltungsangestellter,Verwaltungsangestellter,Fabrikleiter,,2,in Arbeit,nein,keiner,keiner,,,,411096,1931,Stahlhelm,Versammlung,in Arbeit,nein,nein,nein,nein,0,238733
+Reimann,Max,männlich,01.01.1900,Berlin,Berlin,mehr als 3,Volksschule,Kaufmann,,,,,in Arbeit,nein,keiner,mehrmals,,,,,1932,DSP,,in Arbeit,ja,nein,ja,nein,0,236616
+Rudolph,Max,männlich,22.11.1883,Landsberg,Berlin,mehr als 3,Gymnasium,Chemiker,Reichspatentamt,Kaufmann,,,in Arbeit,nein,keiner,mehrmals,verheiratet,1,evangelisch,,1932,DSP,Versammlung,in Arbeit,ja,nein,nein,nein,0,240012
+Schmidt,Max,männlich,02.05.1895,Roneck,Berlin,mehr als 3,Volksschule,Landarbeiter,Reichsbahnverwaltungsangestellter,Postschaffner,,15,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,evangelisch,,1930,DSP,Zeitung,in Arbeit,ja,nein,nein,nein,0,238570
+Mossel,,männlich,15.04.1876,Darmstadt,Frankfurt,mehr als 3,Stadtschule,Kaufmann,Krankenkassenangestellter,Polizeiwachtmeister,,,in Arbeit,ja,mehrmals,mehrmals,,,,395429,1930,,,in Arbeit,ja,nein,nein,nein,0,239490
+Prinz,Mene,männlich,16.05.1901,,,,Volksschule,Binnenschiffer,Binnenschiffer,Landwirt,,6,in Arbeit,,keiner,,,,evangelisch,,1930,,Putsch,in Arbeit,nein,nein,nein,ja,0,238931
+Mürlebach,,männlich,14.05.1881,Kottenheim,Andernach,mehr als 3,Volksschule,Bäcker,Mehlvertreter,Landwirt,,,,ja,mehrmals,mehrmals,verheiratet,,,172850,1929,,Putsch,in Arbeit,ja,nein,nein,nein,0,238380
+Wolf,O,männlich,09.03.1889,Gefell,Duisburg,unter 3,Volksschule,Brauer,Magazinschreiber,Weber,,13,in Arbeit,nein,mehrmals,mehrmals,verheiratet,3,,,1931,Kyffhäuser,,in Arbeit,ja,ja,nein,nein,0,236332
+Oberfrank,Edgar,männlich,,,Ludwigshafen,,,Arbeiter,,,,,in Arbeit,ja,,mehrmals,,,,288950,1930,Völkischer Schutz- und Trutzbund,,in Arbeit,nein,nein,nein,nein,0,239425
+Hollatz,Oskar,männlich,31.05.1882,Slupp,Trakinnen,mehr als 3,Volksschule,Landwirt,Kontrollbeamter,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,,,evangelisch,295274,1930,,,in Arbeit,nein,nein,nein,ja,0,239708
+Klinkusch,Oskar,männlich,01.01.1906,,Berlin,mehr als 3,,,,Beamter,national,,,,,,,,,163208,1929,DHV,Putsch,,nein,nein,nein,nein,0,239275
+Albrecht,Otto,männlich,23.09.1886,Köselitz,Berlin,mehr als 3,Gemeindeschule,Soldat,Beamter,Ziegelmeister,,5,in Arbeit,nein,mehrmals,mehrmals,,,evangelisch,,1930,Deutschvölkischer Turnverein,Putsch,in Arbeit,ja,ja,ja,nein,0,238777
+Breugel,Otto,männlich,12.10.1906,Brückenmühlbach,Brückenmühlbach,keiner,Volksschule,Zimmerer,Zimmerer,Zimmermeister,,,in Arbeit,nein,keiner,keiner,,,,65629,1927,,Hindenburg,in Arbeit,nein,nein,nein,ja,0,239478
+Dellnitz,Otto,männlich,15.10.1885,Dibowen,Rastenburg,unter 3,Volksschule,Melker,Kassierer,Postschaffner,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,16,evangelisch,100534,1928,SPD,Putsch,in Arbeit,ja,nein,nein,nein,0,239690
+Dietrich,Otto,männlich,03.11.1896,Berlin,Berlin,keiner,Volksschule,Kaufmann,Zeitungsvertreter,Töpfer,,3,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,,,1931,DHV,Kamerad,in Arbeit,ja,ja,nein,nein,0,236770
+Elbing,Otto,männlich,05.09.1895,Gelsenkirchen,Moers,mehr als 3,Volksschule,Bergmann,Bergmann,Bergmann,,4,in Arbeit,nein,keiner,mehrmals,verheiratet,,,37291,1926,Stahlhelm,Kamerad,in Arbeit,ja,ja,ja,nein,0,236859
+Georgi,Otto,männlich,05.08.1900,Zeitz,Haundorf,mehr als 3,Volksschule,Hilfsarbeiter,Invalide,Kesselschmied,,,in Arbeit,,mehrmals,mehrmals,verheiratet,2,,639694,1931,Jungwehr,Kamerad,in Arbeit,ja,nein,nein,ja,0,237392
+Hallstein,Otto,männlich,16.03.1895,Tilsit,Karalene,unter 3,Volksschule,Tischler,Tischler,Tischlermeister,,,in Arbeit,nein,keiner,mehrmals,verheiratet,2,evangelisch,,1930,,,in Arbeit,ja,nein,nein,ja,0,239698
+Hinz,Otto,männlich,01.01.1902,,Berlin,mehr als 3,Gymnasium,,,Lehrer,liberal,1,,,,,,,,5188,1925,Jungdeutscher Orden,Kamerad,in Ausbildung,nein,nein,nein,nein,0,238756
+Klebow,Otto,männlich,26.02.1882,Friedeberg,Mühendorf,mehr als 3,Bürgerschule,Friseur,Staatssekretär,Arbeiter,,5,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,,,1930,,Propagandamaterial,in Arbeit,ja,nein,nein,ja,0,237000
+Lenart,Otto,männlich,,,Berlin,,,,,,,,,ja,,,,,,47743,1926,Stahlhelm,,,nein,nein,ja,nein,0,239849
+Schröder,Otto,männlich,01.04.1908,Warnick,Bransdorf,mehr als 3,Volksschule,,,Arbeiter,,7,,ja,,mehrmals,,,,,1931,,Propagandamaterial,arbeitslos,nein,nein,nein,ja,1,238941
+Schulz ,Otto,männlich,23.12.1901,Berlin,Berlin,keiner,Volksschule,Arbeiter,Postbeamter,Kohlenhändler,,1,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,evangelisch,90993,1928,Stahlhelm,Kamerad,,ja,nein,ja,ja,>30,238270
+Seifert,Otto,männlich,,,Berlin,,,,,,,,,,,,,,,,,Völkischer Schutz- und Trutzbund,,,,,,ja,19,237335
+Seiffarth,Otto,männlich,31.08.1891,Hamburg,Berlin,unter 3,Gemeindeschule,Graveur,Bankangestellter,Zeichner,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1931,,,in Arbeit,ja,ja,nein,ja,0,238781
+Wolgast,Otto,männlich,01.01.1876,Berlin,Berlin,unter 3,Volksschule,Installateur,Beamter,Arbeiter,,7,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,evangelisch,7210,1925,DVFP,Zeitung,,ja,ja,nein,ja,0,237642
+Barz,Paul,männlich,25.07.1910,Gollnow,Berlin,unter 3,Volksschule,Fleischer,Fleischer,Böttchermeister,national,1,in Arbeit,nein,keiner,mehrmals,,,,,1931,Pommerntreue,,in Arbeit,nein,nein,nein,ja,0,238994
+Bierwirth,Paul,männlich,29.06.1892,,Frankfurt,,,Kaufmann,,Diener,,,,ja,,mehrmals,,,,90434,1927,,,,ja,ja,nein,ja,0,237961
+Fritze,Paul,männlich,13.08.1898,Berlin,Berlin,unter 3,Gemeindeschule,,,Kaufmann,national,,in Arbeit,,,,,,,180757,1930,DVFP,,,ja,nein,ja,nein,0,236620
+Garisch,Paul,männlich,01.01.1868,Potsdam,Berlin,unter 3,,,,Braumeister,,,arbeitslos,ja,,mehrmals,,,,,1931,SPD,,in Arbeit,nein,nein,nein,ja,0,237650
+Grosche,Paul,männlich,,,Berlin,mehr als 3,,Bäcker,Zeitungsverkäufer,,,,in Arbeit,,mehrmals,mehrmals,,,,19947,1925,,Putsch,,ja,nein,ja,nein,0,236518
+Heilmann,Paul,männlich,,,Frankfurt,mehr als 3,,Maler,,,,,,,,,verheiratet,1,,,1931,Stahlhelm,,,ja,nein,nein,nein,0,239037
+Kitzing,Paul,männlich,,,Halle,,,,,,,,,,,,,,,29386,1925,Grossdeutsche Jugend,,,,,,nein,0,236604
+Kreuzmann,Paul,männlich,21.07.1904,Stedten,Berlin,mehr als 3,Abitur,Banklehrling,Bankbeamter,Schmiedemeister,,,in Arbeit,ja,keiner,mehrmals,,,,25976,1925,Wehrwolf,Kamerad,in Arbeit,nein,nein,nein,nein,0,237008
+Lescrinier,Paul,männlich,24.09.1891,Bonn,Berlin,mehr als 3,Realgymnasium,Landwirt,Amtsangestellter,Prokurist,national,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,,,1931,,,in Arbeit,ja,ja,nein,ja,0,238815
+Leimberg,Paul,männlich,01.08.1909,Hamm,Hamm,mehr als 3,Realgymnasium,Kaufmann,,,national,2,in Arbeit,nein,keiner,mehrmals,,,,407691,1929,,,in Arbeit,nein,nein,nein,ja,1,237634
+Lenz,Paul,männlich,,,Betzdorf,,,,,,national,,,,,,,,,44232,1926,Stahlhelm,Putsch,,ja,nein,ja,nein,0,238832
+Matter,Paul,männlich,02.05.1910,Neu-Dollstädt,Liebstadt,mehr als 3,Volksschule,Bäcker,Vollziehungsbeamter,,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1930,Stahlhelm,Zeitung,in Arbeit,nein,nein,nein,nein,0,239292
+Michligk,Paul,männlich,01.01.1899,Berlinchen,Berlin,mehr als 3,,Sekretär,,Schmied,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1932,Deutsche Jugendbewegung,Familie,in Arbeit,nein,nein,nein,nein,0,236630
+Moschel,Paul,männlich,14.07.1903,Ixheim,Zweibrücken,,Volksschule,Former,,Schneider,national,11,,,,,,,,28454,1925,Völkischer Schutz- und Trutzbund,,,nein,nein,nein,nein,1,239358
+Rother,Paul,männlich,01.01.1892,Brandenburg,,,Volksschule,Kaufmann,Kaufmann,Werkmeister,,,in Arbeit,ja,keiner,mehrmals,verheiratet,,,,1930,,Versammlung,arbeitslos,ja,nein,nein,nein,0,239879
+Schwendtner,Paul,männlich,17.01.1899,Winzig,Sternberg,mehr als 3,Volksschule,Kaufmann,Filialleiter,Schneidermeister,,4,,,,mehrmals,verheiratet,,,,1930,Stahlhelm,,,ja,nein,nein,ja,0,239631
+Würschheim,Paul,männlich,26.05.1891,Berlin ,Berlin,keiner,Realschule,Maschinenbauer,Maschinenbauer,Buchdrucker,national,,in Arbeit,nein,keiner,mehrmals,verheiratet,,,,1930,,,in Arbeit,ja,nein,nein,nein,0,238808
+Emig,Peter,männlich,01.01.1906,Berlin,Berlin,,Gymnasium,Bankkaufmann,,,,,arbeitslos,ja,keiner,mehrmals,,,,,1930,,Zeitung,in Arbeit,nein,nein,nein,nein,0,238154
+Wirschem,Peter,männlich,25.12.1898,Moselkern,Moselkern,keiner,Vorschule,Dachdecker,Dachdeckermeister,Dachdecker,,2,in Arbeit,nein,keiner,mehrmals,verheiratet,,katholisch,,1929,,Zeitung,in Arbeit,ja,ja,nein,nein,0,238875
+Baumann,Phillip,männlich,01.01.1903,,Neustadt/Haardt,mehr als 3,,Landarbeiter,Bauarbeiter,Landarbeiter,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1926,Arbeiterturnverein,,in Arbeit,nein,nein,nein,nein,0,239427
+Ripper,Phillip,männlich,01.01.1904,Pfaffen-Beerfurth,Pfaffen-Beerfurth,keiner,Höhere Bürgerschule,Landwirt,Landwirt,Landwirt,,,in Arbeit,nein,keiner,keiner,verheiratet,,,76672,1929,Jungdeutscher Orden,,in Arbeit,nein,nein,nein,nein,0,238090
+Schneider,Phillip,männlich,22.10.1904,Frankfurt,Frankfurt,unter 3,Volksschule,Fahrbursche,,Schreiner,,,,,mehrmals,mehrmals,geschieden,2,,,1933,KPD,,,nein,nein,nein,ja,0,239058
+Purper,Erich,männlich,29.06.1905,Rimsberg,Salzwedel,mehr als 3,Gymnasium,Buchhändler,Buchhändler,Oberfahnenschmied,,2,in Arbeit,nein,keiner,mehrmals,,,,,1929,DVP,,in Arbeit,nein,nein,nein,nein,0,237128
+Eiden,Britta,weiblich,25.11.1905,Hermeskeil,Hermeskeil,mehr als 3,Volksschule,Haushälterin,Haushälterin,Landwirt,,3,in Arbeit,nein,keiner,mehrmals,,,katholisch,,1932,,Putsch,in Arbeit,nein,nein,nein,nein,0,238353
+Mayer,Raimund,männlich,10.06.1898,Giebau,Fulda,mehr als 3,,Dreher,,Schmied,national,6,,ja,mehrmals,mehrmals,,,,18508,1925,USP,Putsch,,ja,ja,ja,nein,0,239060
+Pust,Reinhold,männlich,07.02.1901,,Berlin,,,Lehrer,,Tischlermeister,,1,,,mehrmals,mehrmals,,,,,1932,Kyffhäuser,,,nein,nein,nein,nein,0,238110
+Voss,Reinhold,männlich,01.01.1869,Berlin,Berlin,keiner,,,,,,,,,,,,,,,1929,,,in Ausbildung,nein,nein,nein,nein,0,236932
+Wolf,Reinhold,männlich,01.01.1908,,Berlin,,,Drogist,,,,,,ja,keiner,mehrmals,,,,,1930,Wehrwolf,Versammlung,in Arbeit,nein,nein,nein,nein,0,238175
+Gumbert,Richard,männlich,,Neustadt/Haardt,Neustadt/Haardt,,,,,,,1,,,,,,,,,1925,,Versammlung,,nein,nein,nein,nein,0,237867
+Hermann,Richard,männlich,26.05.1900,Liebenow,Liebenow,keiner,Volksschule,Arbeiter,Landarbeiter,Eigentümer,,3,in Arbeit,ja,keiner,mehrmals,verheiratet,3,evangelisch,,1932,,,in Arbeit,ja,nein,nein,ja,0,239624
+Quark,Richard,männlich,,,Potsdam,,,,Reichsbankinspektor,,,,in Arbeit,,,,,,,,,,Putsch,,ja,ja,ja,nein,0,238564
+Weber,Richard,männlich,07.06.1892,Lössa,Berlin,unter 3,Volksschule,Soldat,Reichsbankbeamter,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,,,evangelisch,,1932,Stahlhelm,Putsch,in Arbeit,ja,ja,nein,nein,0,238599
+Rilimke,,männlich,,,Berlin,,,,Reichsbeamter,,,,in Arbeit,nein,,,,,,,1929,DSP,,in Arbeit,ja,ja,nein,nein,0,238607
+Eckert,Robert,männlich,05.08.1889,,Berlin,,Volksschule,Fleischer,Stadtoberinspektor,Ziegelmeister,,,in Arbeit,nein,mehrmals,mehrmals,,7,evangelisch,,1932,,Propandamaterial,in Arbeit,ja,ja,ja,nein,0,236991
+Fischer,Robert,männlich,21.03.1886,Damerfitz,Berlin,mehr als 3,Volksschule,Landwirt,Obergerichtsvollzieher,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,evangelisch,,,,,in Arbeit,ja,ja,nein,ja,0,237033
+Friedrich,Robert,männlich,21.05.1882,Nessmersiel,Ballenstedt,mehr als 3,Bürgerschule,Soldat,,Steueraufseher,,3,in Rente,ja,mehrmals,mehrmals,verheiratet,,evangelisch,96930,1928,,Kamerad,arbeitslos,ja,ja,nein,nein,0,239432
+Reineke,Robert,männlich,01.11.1879,Frankfurt,Berlin,mehr als 3,Gymnasium,Soldat,Verwaltungsamtmann,,,,in Arbeit,nein,mehrmals,mehrmals,,,,3026,1926,,,in Arbeit,ja,nein,nein,nein,0,238710
+Wuttur,Robert,männlich,,,Berlin,,,Schiffsjunge,Reichsbahnbetriebsassistent,,national,,in Arbeit,nein,mehrmals,mehrmals,,,,121983,1928,DNVP,Putsch,in Arbeit,ja,nein,nein,nein,0,238812
+Schönfelder,Roland,männlich,01.04.1904,Altdamm,Berlin ,mehr als 3,Volksschule,Soldat,Vertreter,Kommandeur,national,1,,ja,mehrmals,mehrmals,verheiratet,1,,,1931,Stahlhelm,,in Arbeit,ja,nein,ja,nein,0,240100
+Freimann,Rudolf,männlich,03.04.1890,Neuhalbstadt,Berlin,mehr als 3,Musterschule,Landwirt,Vertreter,Landwirt,,,arbeitslos,ja,mehrmals,mehrmals,verheiratet,1,,,1932,,,arbeitslos,ja,nein,nein,nein,0,239810
+Gehring,Rudolf,männlich,11.11.1893,Neudorf/Rhg,Neudorf/Rhg,keiner,Volksschule,Dachdecker,Zupfer,Dachdeckermeister,,6,in Arbeit,ja,mehrmals,mehrmals,verheiratet,3,,,1929,,Putsch,arbeitslos,ja,ja,nein,ja,0,239975
+Heidke,Rudolf,männlich,24.11.1906,Berlin,Berlin,keiner,Gemeindeschule,Goldschmied,Fahrer,,,5,in Arbeit,ja,mehrmals,mehrmals,,,,88186,1926,Wandervogel,Kamerad,in Ausbildung,nein,nein,nein,ja,0,238980
+Kahn,Rudolf,männlich,01.01.1898,Bornum,Vorsfelde,mehr als 3,,Lehrer,Lehrer,Lehrer,,,in Arbeit,nein,keiner,mehrmals,verheiratet,1,,,1931,,,in Arbeit,ja,nein,nein,nein,0,236456
+Strahle,Rudolf,männlich,04.07.1894,Thiede,Stendal,mehr als 3,Gymnasium,Kaufmann,,Landwirt,,2,arbeitslos,ja,mehrmals,mehrmals,,,,,1929,Stahlhelm,,in Arbeit,ja,nein,nein,nein,0,237137
+Gratwohl,Ruth,weiblich,,,Moers,mehr als 3,Abitur,Lehrer,Lehrer,,,,,,,,,,,,1928,,Kamerad,,nein,nein,nein,ja,0,237585
+Schmidt,,männlich,01.01.1890,Berlin,Berlin,,,,,Gardewachtmeister,national,1,in Arbeit,nein,,,,,,,1932,,,in Arbeit,ja,nein,ja,nein,0,239890
+Schoepke,,männlich,06.04.1886,Plötzenfliess,Neumünster,mehr als 3,,Lehrer,Lehrer,Förster,,6,in Arbeit,nein,keiner,mehrmals,,,,,1932,Stahlhelm,,in Arbeit,ja,ja,nein,nein,0,237682
+Schruff,,männlich,07.11.1897,Hamminkeln,Hamminkeln,,Volksschule,Schlosser,Maschinist,Landwirt,,5,in Arbeit,nein,keiner,mehrmals,verheiratet,2,evangelisch,,1930,,Versammlung,in Arbeit,ja,nein,nein,nein,0,236870
+Schülter,,männlich,14.08.1890,Stolberg,Trier,unter 3,Oberrealschule,Kommunalbeamter,Stadtamtmann,Werkmeister,,7,in Arbeit,nein,keiner,mehrmals,verheiratet,2,,,1926,,Putsch,in Arbeit,ja,ja,nein,nein,0,238329
+Schwarz,,männlich,29.01.1884,Usingen,Obernhain,,,Lehrer,Lehrer,Landwirt,national,,in Arbeit,nein,keiner,mehrmals,,,,,1931,,Putsch,in Arbeit,ja,nein,nein,nein,0,238103
+Sens,,männlich,01.01.1897,Schönebeck,Schönebeck,mehr als 3,Volksschule,Bäcker,,Fabrikarbeiter,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,5,,,1927,Stahlhelm,,arbeitslos,ja,ja,nein,nein,0,237172
+Klein,Siegfried,männlich,03.09.1911,Forst,Forst,unter 3,Abitur,Theologe,Theologe,Malermeister,,,in Arbeit,nein,keiner,,,,,,1931,,,in Ausbildung,nein,nein,nein,nein,0,239668
+Stahl,,männlich,25.02.1911,Strassburg,Wiesbaden,mehr als 3,Absolotorium,Weinbauer,,Oberleutnant,national,,in Arbeit,nein,mehrmals,mehrmals,,,,,1930,Artamanen,,in Ausbildung,nein,nein,nein,nein,0,239326
+Steffen,Horst,männlich,13.09.1892,Deutschboden,Berlin,mehr als 3,Volksschule,Soldat,Obergerichtsvollzieher,Arbeiter,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,,,1929,,,in Arbeit,ja,nein,ja,ja,0,237011
+Sturmmeyer,,männlich,01.01.1894,Süntel,Goslar,mehr als 3,Privatunterricht,technischer Korrespondent,Arbeitsamtdirektor,Forstaufseher,,,in Arbeit,ja,mehrmals,mehrmals,,,,106903,1928,,Versammlung,in Arbeit,ja,nein,ja,nein,0,236471
+Jost,Susi,weiblich,,,Bernstein,,,,,Beamter,,,,,,,verheiratet,4,,,1929,,Familie,,nein,nein,nein,ja,0,239486
+Schieben,T,männlich,05.12.1884,Krotoschin,Trier,unter 3,,Soldat,Reichspostbeamter,Soldat,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1925,,Putsch,in Arbeit,ja,nein,nein,nein,0,236777
+Barthl,Theodor,männlich,21.11.1903,Friesoythe,Berlin,mehr als 3,Lyzeum,Kaufmann,Zeitungsverkäufer,Amtsrichter,,3,in Arbeit,ja,mehrmals,mehrmals,,,,297037,1930,DNVP,,arbeitslos,nein,nein,nein,nein,0,239565
+Jeck,Theodor,männlich,15.03.1898,Ruhrort,Duisburg,mehr als 3,Volksschule,Anstreicher,Arbeiter,Handwerksmeister,national,,arbeitslos,ja,mehrmals,mehrmals,,,katholisch,,1926,,Putsch,in Arbeit,nein,nein,nein,ja,0,237553
+Strumpf,Theodor,männlich,05.09.1884,Heteborn,Berlin,unter 3,Gymnasium,Postbeamter,Amtsleiter,Schlosser,liberal,,in Arbeit,ja,keiner,mehrmals,verheiratet,,,29820,1925,DHV,Putsch,in Arbeit,ja,ja,nein,nein,0,239915
+,,männlich,10.07.1902,Wildenhoff,Landsberg,mehr als 3,,Kaufmann,,Lehrer,,,,,,mehrmals,,,,,1925,,Putsch,in Arbeit,nein,nein,nein,nein,0,100003
+Hagemann,Theo,männlich,01.07.1912,Münster,Niederwalluf,,Gymnasium,,,Kaufmann,,,,,,,,,,,1930,,Familie,,nein,nein,nein,nein,0,239988
+Tisch,Theo,männlich,19.02.1896,Grünstadt,Grünstadt,,Realschule,Bankkaufmann,Kaufmann,Kaufmann,,,in Arbeit,nein,keiner,mehrmals,verheiratet,3,,289650,1929,Schwarze Reichswehr,Putsch,in Arbeit,ja,nein,nein,ja,0,239415
+Diebel,Therese,weiblich,21.07.1887,Berlin,Marienfelde,unter 3,Dorfschule,Binderin,,Gärtnereibesitzer,,6,,nein,keiner,mehrmals,verheiratet,7,,743162,1932,,,,nein,nein,nein,ja,0,240143
+,,männlich,,Vogelsberg,Eichelsdorf,,,,,,,,in Arbeit,,,,,,,,1931,,,,,,,nein,0,100004
+,,männlich,29.06.1901,Forst,Berlin,unter 3,,,Reichsbeamter,,,,in Arbeit,,,,,,,,1931,Wikkingbund,,in Arbeit,nein,nein,nein,nein,0,100005
+,,männlich,03.07.1901,Strassfurt,Strassfurt,unter 3,Gymnasium,Jurist,Rechtsanwalt,Lehrer,national,,in Arbeit,nein,keiner,mehrmals,,,,46426,1926,,,in Arbeit,nein,nein,nein,nein,0,100006
+Steuerwald,H,männlich,30.10.1902,Sondernheim,Vollmersweiler,mehr als 3,Gymnasium,Lehrer,Lehrer,Lehrer,,,in Arbeit,nein,keiner,mehrmals,verheiratet,,,98935,1928,Schwarze Reichswehr,Kamerad,in Arbeit,nein,nein,nein,nein,0,237116
+Boenke,Valentin,männlich,20.03.1887,Prossitten,Berlin,unter 3,Volksschule,Kaufmann,Kaufmann,Handwerker,,,in Arbeit,ja,keiner,mehrmals,verwitwet,3,,,1926,DNVP,,in Arbeit,ja,nein,nein,ja,0,239870
+von Berg,Valentin,männlich,05.05.1899,Moskau,Berlin,mehr als 3,Gymnasium,,,Lehrer,,,,,,,,,,29775,1925,,Aufmarsch,,nein,nein,ja,ja,0,237405
+von Schoeler,Waldemar,männlich,01.01.1868,Erfurt,Arolsen,mehr als 3,Gymnasium,Soldat,Soldat,Divisionskommandeur,national,,in Rente,nein,mehrmals,mehrmals,verheiratet,,,177038,1929,,Kamerad,in Rente,ja,nein,nein,nein,0,237463
+Waldmann,,männlich,,Allgäu,Kimratshofen,mehr als 3,Realschule,Kaufmann,Hilfspolizist,Postbote,,3,in Arbeit,ja,mehrmals,mehrmals,,,,,,,Putsch,in Arbeit,nein,nein,ja,nein,0,238144
+Frantzen,Walter,männlich,25.05.1904,Neuwied,Neuwied,unter 3,Volksschule,Kaufmann,Kaufmann,Kaufmann,,,in Arbeit,ja,mehrmals,mehrmals,,,evangelisch,,1926,DHV,Versammlung,in Arbeit,nein,nein,nein,nein,0,238319
+Graulich,Walter,männlich,03.08.1910,Frankfurt,Frankfurt,mehr als 3,Mittelschule,Kaufmann,Kaufmann,Prokurist,,2,in Arbeit,nein,keiner,mehrmals,,,,,1932,Pfadfinder,Versammlung,in Arbeit,nein,nein,nein,nein,0,237956
+Groetschel,Walter,männlich,28.11.1887,Rupptahn,Berlin,mehr als 3,Gymnasium,Landwirt,Versicherungsinspektor,Wirtschaftsinspektor,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,4,katholisch,,1930,,,in Arbeit,ja,nein,nein,ja,0,237374
+Henning,Walter,männlich,14.05.1882,Eberswalde,Berlin,unter 3,Volksschule,Forstwirt,Forstinspektor,Mühlenbesitzer,,1,in Arbeit,nein,keiner,mehrmals,verheiratet,,,,1930,DSP,Kamerad,in Arbeit,ja,nein,ja,ja,0,236996
+Hochhaus,Walter,männlich,,,Essen,unter 3,Abitur,Kaufmann,,,,,,ja,,mehrmals,,,,,1931,,,in Arbeit,nein,nein,nein,nein,0,237095
+Junglen,Walter,männlich,08.01.1906,Kinheim,Kinheim,keiner,Volksschule,Weinbauer,Weinbauer,Weingutbesitzer,,1,in Arbeit,nein,keiner,mehrmals,,,,,1931,,Kamerad,in Arbeit,nein,nein,nein,nein,0,238505
+Kählitz,Walter,männlich,09.02.1895,Berlin,Frankfurt,mehr als 3,Gymnasium,Bankbeamter,Bankinspektor,Beamter,,1,in Arbeit,nein,keiner,mehrmals,verheiratet,,,,1932,,Aufmarsch,in Arbeit,ja,nein,nein,nein,0,238553
+König,Walter,männlich,,,Berlin,,,,Reichsbeamter,,,,in Arbeit,ja,keiner,mehrmals,,,,,1932,,Versammlung,arbeitslos,nein,nein,nein,nein,0,237047
+von Marck,Walther,männlich,01.01.1882,Schlesien,Berlin,mehr als 3,Abitur,Kaufmann,Kaufmann,Kaufmann,,,in Arbeit,nein,keiner,mehrmals,,,,92602,1927,,Goebbels,in Arbeit,ja,ja,nein,ja,0,239925
+Naumann,Walter,männlich,17.06.1900,Dresden,Neuhaldensleben,,Mittelschule,Landwirt,,Ziegeleibesitzer,liberal,,in Arbeit,nein,mehrmals,mehrmals,,,,204225,1930,,Kamerad,in Arbeit,ja,nein,nein,nein,0,237177
+Otto,Walter,männlich,10.12.1892,Berlin,Berlin,unter 3,Volksschule,Kaufmann,Stadtsekretär,Silberarbeiters,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1931,DNVP,Kamerad,in Arbeit,ja,ja,nein,nein,0,238644
+Szimba,Walter,männlich,25.02.1902,Milken,Milken,unter 3,Volksschule,Landwirt,Landwirt,Landwirt,,4,in Arbeit,nein,keiner,keiner,,,,,1930,Wehrwolf,,in Arbeit,nein,nein,nein,nein,2,239731
+Treue ,Walter,männlich,01.01.1904,Hillersleben,Berlin,mehr als 3,,Soldat,Justizbeamter,Maurer,,4,in Ausbildung,ja,mehrmals,mehrmals,,,,335979,1930,,Familie,in Arbeit,nein,nein,ja,ja,0,237037
+Werthschitzky,Walter,männlich,30.10.1903,Halle,Zschornewitz,mehr als 3,Volksschule,Schlosser,,Werkmeister,,,arbeitslos,ja,keiner,keiner,verheiratet,2,,,1929,Jungdeutscher Orden,Kamerad,arbeitslos,nein,nein,nein,nein,2,237192
+Schultz,Walther,männlich,,Hannover,Berlin ,mehr als 3,Oberrealschule,Lehrling bei Zeitung,"""ZO-Mann"" bei Zeitungsgrossverlag",Buchdruck-Werkmeister,,3,in Arbeit,nein,keiner,mehrmals,,,,,1929,Stahlhelm,Verein,in Arbeit,nein,nein,nein,ja,0,236969
+Hansel ,Werner,männlich,01.01.1909,,Meresburg,mehr als 3,,,,,,,,,,,,,,,1925,,,in Ausbildung,nein,nein,nein,nein,0,237212
+K,Werner,männlich,21.09.1907,Küstrin,Berlin,keiner,Gemeindeschule,Arbeitsbursche,Strassenbote,,,,in Arbeit,ja,mehrmals,mehrmals,,,,46884,1926,Stahlhelm,,in Arbeit,nein,nein,nein,ja,0,239558
+Kauffmann,Werner,männlich,10.12.1896,Hedwigshorst,Berlin,mehr als 3,Abitur,Elewe,Kaufmann,Rittergutsbesitzer,,7,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,evangelisch,,1933,DVFP,,in Arbeit,ja,nein,nein,ja,0,240021
+Kocks,Werner,männlich,,,Mühlheim ad Ruhr,keiner,,,Staatsbetrieb,,,6,,,,,,,,,1930,,Kamerad,in Arbeit,nein,nein,nein,nein,0,236374
+Leunartz,Werner,männlich,,,Mühlheim ad Ruhr,,,,,,,,,,,,,,,,1930,Stahlhelm,,,ja,nein,nein,ja,0,237337
+Petersohn,Werner,männlich,06.06.1903,Wittenberg a. Elbe,Möckern,mehr als 3,8-stufige Voksschule,,arbeitslos,Werkmeister,liberal,,arbeitslos,ja,,,,,,,1929,,Versammlung,arbeitslos,nein,nein,nein,nein,0,237134
+Wiersch,,männlich,28.12.1900,Küstrin,Schwerin,mehr als 3,Volksschule,Soldat,,Artilleriedepotarbeiter,,,,ja,mehrmals,mehrmals,,,evangelisch,,1929,Pfadfinder,,,ja,nein,ja,ja,0,238946
+Müller,Wilfried,männlich,18.01.1911,Kaiserslautern,Kaiserslautern,keiner,Volksschule,Schlosser,Ausbildungsreferent,Schlossermeister,national,,in Arbeit,nein,mehrmals,mehrmals,,,,,1927,Grossdeutsche Jugend,Familie,in Arbeit,nein,nein,nein,ja,0,237604
+Acht,Wilhelm,männlich,15.06.1880,Niedertiefanbach,Wiesbaden,mehr als 3,Studium,Lehrer,Lehrer,Lehrer,,,in Arbeit,nein,keiner,mehrmals,verheiratet,3,,,1932,,Kamerad,in Arbeit,ja,ja,nein ,nein,0,237880
+Barnick,Wilhelm,männlich,17.02.1877,Siemen,Berlin,mehr als 3,Realgymnasium,Soldat,Beamter,Lagermeister,,,in Arbeit,nein,keiner,mehrmals,verheiratet,1,evangelisch,1399666,1932,DNVP,,in Arbeit,ja,nein,nein,ja,0,236985
+Berzym,Wilhelm,männlich,,,Neufreudenthal,,,,Bauhandwerker,,,,in Arbeit,,,,,,,,1930,,,in Arbeit,,,,nein,0,239740
+Bischoff,Wilhelm,männlich,28.01.1893,Reichenfelde,Königsberg,mehr als 3,Volksschule,,,,,,,,mehrmals,mehrmals,verheiratet,,,,1930,,Versammlung,,,,,nein,0,238935
+Braune ,Wilhelm,männlich,18.01.1871,Leipzig,Berlin,mehr als 3,Volksschule,Expedient in Buchhandlung,arbeitslos,Schuhmachermeister,,6,arbeitslos,ja,mehrmals,mehrmals,verheiratet,3,,,1929,,,in Arbeit,ja,nein,ja,ja,0,236750
+Domning ,Wilhelm,männlich,,,Insterburg,mehr als 3,,Schneider ,arbeitslos,Schneidermeister,,4,arbeitslos,ja,mehrmals,mehrmals,verheiratet,4,,,1930,,Versammlung,in Arbeit,ja,ja,nein,nein,0,236646
+Fiege,Wilhelm,männlich,12.03.1899,Trennborn,Trennborn,unter 3,Volksschule,Schlosser,,Landwirt,,8,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1929,SPD,Kamerad,in Arbeit,nein,nein,nein,ja,0,237430
+Fischer ,Wilhelm,männlich,19.08.1887,,Oberrammstadt,mehr als 3,Volksschule,Pflasterer,Rottenarbeiter,Pflasterer,national,6,in Arbeit,nein,mehrmals,mehrmals,verheiratet,3,evangelisch,343525,1930,,Versammlung,in Arbeit,ja,ja,ja,ja,0,239069
+Gamp,Wilhelm,männlich,18.10.1908,Lingnitz,Berlin,mehr als 3,Realgymnasium,Elewe,Elewe,Regierungsassessor,konservativ,2,in Ausbildung,,,mehrmals,,,,,1929,,Putsch,in Ausbildung,nein,nein,nein,ja,0,238948
+Gebert,Wilhelm,männlich,05.06.1888,Reetzerhütten,Berlin,mehr als 3,Volksschule,Schneider ,Justizinspektor,Schneidermeister,national,10,in Arbeit,nein,mehrmals,mehrmals,verheiratet,1,evangelisch,,1930,,,in Arbeit,ja ,nein,nein,ja,0,237015
+Gehmerts,Wilhelm,männlich,,,Berlin,,,,Verwaltungsangestellter,,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,evangelisch,,,Völkischer Schutz- und Trutzbund,Versammlung,in Arbeit,ja,,nein,ja,0,236955
+Gorf,Wilhelm,männlich,04.02.1902,,Frankfurt,mehr als 3,,Schuhmacher,arbeitslos,,,3,arbeitslos,ja,mehrmals,mehrmals,,,,,1927,,,arbeitslos,nein,nein,nein,ja,0,239052
+Götze,Wilhelm,männlich,13.10.1893,Rathenow,Rathnow,unter 3,(Präparanden-Anstalt),kaufmännische- und Fachoptik,"Polizist
+",Landwirt,national,3,in Arbeit,ja,mehrmals,mehrmals,geschieden,2,,,1925,,Putsch,in Arbeit,ja,nein,nein,nein,0,239772
+Grotstollen,Wilhelm,männlich,01.01.1905,,Ruhrort,mehr als 3,,Schlosser,,Arbeiter,,,in Arbeit,,,,,,,,1925,SPD,Versammlung,,nein,nein,nein,nein,0,236354
+Haas,Wilhelm,männlich,08.12.1908,Bad Soodena Allendorf,Eylau,mehr als 3,Untersekunda des Gymnasiums,Theologe,,Eisenbahnladenmeister,,,in Ausbildung,ja,mehrmals,mehrmals,,,,,1928,Jungdeutscher Orden,,in Ausbildung,nein,nein,nein,nein,0,236709
+Haselhofer,Wilhelm,männlich,01.07.1905,Langenzersdorf,Groß-Lübars,mehr als 3,Realgymnasium,Maschinenbauer,Artamane,Beamter,,1,in Arbeit,,mehrmals,mehrmals,,,,,,Wandervogel,,,nein,nein,nein,nein,0,237141
+Hastin,Wilhelm,männlich,27.02.1883,Steilheuer,Duisburg,unter 3,evangelische Volksschule,Schleifer,Werkmeister,,,10,in Arbeit,nein,keiner,mehrmals,verheiratet,2,evangelisch,618994,1931,,Putsch,in Arbeit,ja,nein,nein,ja,11,237285
+Heim,Wilhelm,männlich,29.12.1899,Erbach,Erbach,unter 3,Volksschule,Bürolehrling,Verwaltungsbeamter,Fabrikarbeiter,liberal,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,evangelisch,,1930,,Mein Kampf,in Arbeit,ja,ja,nein,nein,0,239043
+Henkel,Wilhelm,männlich,25.08.1900,Neunkirchen,Frankenstein,mehr als 3,Realschule,Kaufmann,,Reichsbahnbeamter,,,,,,,,,,,1925,Landesschutz Baden,,,nein,nein,nein,nein,0,239330
+Höfler,Wilhelm,männlich,17.02.1887,Hanau a. Main,Hanau a. Main,mehr als 3,Volksschule,Kunstmaler,Kunstmaler,Bäckergehilfe,,2,in Arbeit,nein,keiner,mehrmals,,,,,1932,,,in Arbeit,ja,ja ,nein,nein,0,237918
+Jöckel,Wilhelm,männlich,31.05.1902,Dolle,Dolle,mehr als 3,Volksschule,Knecht,Wirt,Landwirt,,,in Arbeit,ja,mehrmals,mehrmals,,,,,1927,Stahlhelm,Putsch,in Arbeit,nein,nein,nein,nein,0,236589
+Julius,Wilhelm,männlich,11.10.1871,Saalfeld a. Saale,Zeitz,mehr als 3,Bürgerschule,Konditor,Konditor,Uhrmachermeister,,,in Arbeit,nein,keiner,mehrmals,,,,,1926,,,in Arbeit,nein,nein,nein,nein,0,237226
+Kallweit,Wilhelm,männlich,11.02.1872,Reickerzicken,Reickertswiten,,Volksschule,Unteroffizieranwärter,Landwirt,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1929,Volkspartei,,in Arbeit,ja,nein,nein,ja,0,239714
+L,Wilhelm,männlich,27.07.1878,,Neuwied,,evangelische Volksschule,Klempner,,Klempnermeister,national,1,in Arbeit,,keiner,,verheiratet,3,evangelisch,151230,,DNVP,Familie,,ja,nein,nein,ja,9,238846
+Lembke,Wilhelm,männlich,,,Berlin,unter 3,,,,,,,,,,,,,,,,,,,ja,nein,nein,nein,0,238560
+Mayer ,Wilhelm,männlich,06.08.1903,Kaiserslautern,Kaiserslautern,,Volksschule,Justizrat,,,,,,ja,,,,,,23809,1925,,Putsch,,nein,nein,nein,nein,0,236718
+Meyer,Wilhelm,männlich,01.01.1883,Breslau,Rembrand,mehr als 3,evangelische Volksschule,Kaufmannsgehilfe,Zellenwart,Bahnassistent,,1,in Arbeit,ja,mehrmals,mehrmals,,,,297375,1930,DHV,,in Arbeit,ja,nein,nein,nein,0,238304
+Naatz,Wilhelm,männlich,26.05.1904,Rützenhagen,Duisburg,mehr als 3,Gymnasium,Müller, Müller,Mühlenbesitzer,,,in Arbeit,nein,keiner,mehrmals,verheiratet,1,,128425,1928,,Propagandamaterial,in Arbeit,nein,nein,nein,nein,0,236350
+Nitschke,Wilhelm,männlich,01.01.1896,,Berlin,unter 3,Oberrealschule,Verwaltungsangestellter,,,,3,arbeitslos,ja,keiner,,,,,59966,1927,,Kamerad,in Arbeit,ja,ja,nein,nein,0,238623
+Protz,Wilhelm,männlich,01.01.1886,Provinz Brandenburg,Berlin,mehr als 3,6-klassige Volksschule,Schreibgehilfe,Reichsbeamter,Handwerker,national,5,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,evangelisch,12907,1923,Ev. Jünglings-Verein,Kollege,in Arbeit,ja,ja,nein,nein,0,238613
+Rossbach,Wilhelm,männlich,01.01.1901,Mayen,Mayen,mehr als 3,,Arbeiter,,Milchhändler,,,in Arbeit,ja,mehrmals,mehrmals,,,,12907,1930,,Versammlung,arbeitslos,nein,nein ,nein,nein,0,238373
+Schmitz,Wilhelm,männlich,,,Mühlheim ad Ruhr,,Realgymnasium,Maschinenbauer,Maschinenbaufachangestellter,Gewerbetreibender,,,in Arbeit,,keiner,mehrmals,,,,,1930,,Ruhreinmarsch,in Arbeit,nein,nein,nein,nein,0,238775
+Schneider,Wilhelm,männlich,19.01.1886,Frankfurt,Frankurt am Main,mehr als 3,Volksschule,Zimmerer,Arbeiter,Inhaber eines Baugeschäfts,,,in Arbeit,ja,mehrmals,mehrmals,,,,,1926,,Putsch,in Arbeit,ja,nein,nein,ja,0,239005
+Schulz ,Wilhelm,männlich,07.10.1902,Magdeburg,Meresburg,mehr als 3,Realgymnasium,Bankbeamter,Ortsbetriebskassenwart,Verwaltungsamtmannes,,,in Arbeit,ja ,mehrmals,mehrmals,,,,,1931,Stahlhelm,,in Arbeit,nein,nein,nein,ja,0,237608
+Trapp,Wilhelm,männlich,29.03.1902,Alltomisikel,,,Volksschule,Müller,Müller,Müllermeister,,,in Arbeit,nein,keiner,mehrmals,,,,,1930,,Versammlung,in Arbeit,nein,nein,nein,ja,0,239600
+Wittfeld ,Wilhelm,männlich,14.06.1901,,Duisburg,,,Bürolehrling,Büroarbeiter,Werkmeister,,5,,nein,mehrmals,mehrmals,,,,,1926,,Zeitung,in Arbeit,nein,nein,nein,nein,0,236326
+Zander,Wilhelm,männlich,28.05.1915,Bohm,Byritz,unter 3,Oberschule,Fleischer,Fleischer,,,,in Arbeit,ja,keiner,mehrmals,,,evangelisch,,1932,Jungsturm,Kollege,in Arbeit,nein,nein,nein,ja,0,239575
+Schich,Wilhelm,männlich,30.04.1884,Berlin,Berlin,mehr als 3,Realschule,Postgehilfe,Postinspektor,Fuhrherren,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,2,evangelisch,,1932,DVFP,,in Arbeit,ja,nein,nein,ja,0,237045
+Trube,Wilhelm,männlich,23.08.1874,Waldesleben,Schönbeck,mehr als 3,Volksschule,Musiklehrling,Oberpostinspektor,Maurer,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,5,evangelisch,94501,1928,Stahlhelm,Propagandamaterial,in Arbeit,ja,nein,nein,nein,0,237616
+Müller ,Wilhelm,männlich,15.07.1905,Wernigerode,Sohlin,mehr als 3,Mittelschule,Brunnenbauer,,Werkmeister,national,,arbeitslos,ja,keiner,mehrmals,,,,,1931,Metalarbeiterverband,Familie,arbeitslos,nein,nein,nein,ja,0,239618
+Barth,Willi,männlich,01.01.1906,Langen,Langen,keiner,Obersekundareife,Tiefbauingenieur,Tiefbauingenieur,Beamter,,1,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,,,1929,,Schule,arbeitslos,nein,nein,,nein,0,238009
+Luther,Willi,männlich,06.05.1884,Frankfurt Oder,Berlin,mehr als 3,Realschule,Amtsgerichtssekretär,Justizinspektor,,,,in Arbeit,nein,keiner,mehrmals,verheiratet,1,evangelisch,1330909,1932,vaterländischer Verein,,in Arbeit,ja,nein,nein,ja,0,237029
+Miesel,Willi,männlich,,,Kaiserslautern,,,,,,,,,,,,,,,23808,1925,Wikkingbund,,,,,,nein,0,239345
+Rostel,Willi,männlich,27.05.1903,Raumerswalde,,mehr als 3,Volksschule,Landwirt,Arbeiter,Landwirt,,2,in Arbeit,ja,mehrmals,mehrmals,verheiratet,2,evangelisch,,1932,,,arbeitslos,nein,nein,nein,ja,0,239569
+Scharf,Willi,männlich,14.12.1904,Edigheim,Oppau,mehr als 3,Ansiedlungsschule,Zimmerer,arbeitslos,Brauereiarbeiter,liberal,3,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,,58621,1927,,,arbeitslos,nein,nein,nein,nein,0,239438
+Schmidt,Willi,männlich,,,Frankfurt am Main,mehr als 3,Realschule,,Kaufmann,Kaufmann,,,,,,,,,,,1930,,Versammlung,,ja,nein,nein,nein,0,238043
+Berlinghof,William,männlich,10.07.1908,,Oppenheim,keiner,,,,Soldat,,,,,,,,,,,1926,Wehrwolf,,,nein,nein,nein,nein,0,239021
+Kranz,Willibald,männlich,16.10.1904,Ludwigshafen,Ludwigshafen,keiner,Oberrealschule,Schlosser,,Lokomotivführer,,,in Arbeit,nein,,,,,,26237,1925,,,,nein,nein,nein,ja,0,239381
+Diebel,Willy,männlich,15.02.1879,Berlin,Marienfeld,mehr als 3,Musikschule,Hoboist,Telegraphenbeamter,Buchbinder,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,,,,1931,,,in Arbeit,nein,nein,nein,nein,0,239547
+Fischer,Willy,männlich,06.09.1902,Magdeburg,Magdeburg,unter 3,,Kaufmann,Kaufmann,Feldwebel,national,,in Arbeit,nein,keiner,mehrmals,verheiratet,1,,13544,1925,Völkischer Schutz- und Trutzbund,Putsch,in Arbeit,nein,nein,nein,nein,0,237163
+Köhler,Willy,männlich,12.10.1884,Magdeburg,Magdeburg,mehr als 3,Mittelschule,Kaufmann,Versandleiter,Hotelier,,,in Arbeit,ja,mehrmals,mehrmals,verheiratet,,,,1928,,Versammlung,in Arbeit,ja,nein,nein,nein,0,237167
+Reinke,Willy,männlich,19.05.1892,Lanz/Westprignitz,Berlin,mehr als 3,Dorfschule,Soldat,Arbeiter,Bauer,,,in Arbeit,nein,mehrmals,mehrmals,,,,,1929,Österreichische Ehrenlegion,,in Arbeit,ja,nein,ja,nein,0,238715
+Unger ,Willy,männlich,04.09.1901,Berlin,Schwiebus,mehr als 3,Fortbildungsschule,Landwirt,Landwirt,Bauer,,,in Arbeit,ja,mehrmals,mehrmals,,,evangelisch,,1928,Stahlhelm,Kamerad,in Arbeit,nein,nein,nein,ja,1,239755
+Wolf,Willy,männlich,01.01.1898,Kempten,Aach,mehr als 3,Realschule,Maschinenschlosser,Maschinenmeister,,national,,in Arbeit,ja,mehrmals,mehrmals,,,,,1922,,Kamerad,in Arbeit,ja,nein,nein,nein,0,238135
+Harhausen,Winfried,männlich,03.08.1908,Hopfengarten,Salzwedel,mehr als 3,Gymnasium,Jurist,,Pfarrer,,,arbeitslos,ja,mehrmals,mehrmals,,,,,1930,Stahlhelm,Versammlung,in Ausbildung,ja,nein,nein,nein,0,237117
+Müller ,Wolfgang,männlich,02.10.1901,Oliva,Bergfriede,mehr als 3,Obersekundareife,Landwirtschaftsbeamter,Gutsverwalter,Maler,,,in Arbeit,nein,mehrmals,mehrmals,,,,522022,1931,Stahlhelm,,in Arbeit,nein,nein,nein,ja,0,239729
+Schmoll,Wolfgang,männlich,29.06.1916,Hölze,Schwiebus,mehr als 3,Mittelschule,Lehrling in Molkerei,Arbeiter,Lehrer,,,in Arbeit,nein,keiner,keiner,,,,,1931,,,in Arbeit,nein,nein,nein,ja,3,239606
+Zimmer,,männlich,20.11.1893,Guntersblum a./Rh.,Guntersblum,mehr als 3,Volksschule,Landwirt,Immobilienhändler,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,,,,25764,1925,,,in Arbeit,ja,ja,nein,ja,0,239018
+Roggmann,,männlich,,,Kiel,mehr als 3,,Soldat,Militärbeamter,,,,in Arbeit,nein,keiner,mehrmals,,,,,1926,,Versammlung,in Arbeit,nein,nein,ja,ja,0,237533
+Freundling,,männlich,25.09.1885,Augsburg,Augsburg,mehr als 3,,Maschinist,Werkmeister,Maschinenmeister,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,,,1926,,Kamerad,in Arbeit,ja,nein,nein,ja,0,239310
+Heckmann,H,männlich,20.01.1891,Untermossau,Mossau,keiner,Volksschule,Landwirt,Landwirt,Landwirt,,,in Arbeit,nein,mehrmals,mehrmals,verheiratet,2,,95205,1928,Bauernbund,Versammlung,in Arbeit,ja,ja,nein,ja,0,239992
+Mertes,,männlich,03.09.1893,Kolverath,Kolverath,mehr als 3,Volksschule,Bergmann,Gemeindevorsteher,Landwirt,,5,in Arbeit,,mehrmals,mehrmals,verheiratet,4,katholisch,,1932,,Propagandamaterial,in Arbeit,ja,nein,nein,ja,0,238865
