@@ -3,6 +3,8 @@ library(FactoMineR)
 library(factoextra)
 #devtools::install_github('thomasp85/ggfx')
 library(ggfx)
+library(patchwork)
+
 
 # load data ----
 
@@ -85,8 +87,6 @@ ca_results <- CA(mean_table, graph = FALSE)
 row_coords <- as.data.frame(ca_results$row$coord)
 row_coords$label <- rownames(row_coords)
 
-
-
 with_outer_glow(
 fviz_ca_biplot(ca_results, 
                repel = T, 
@@ -98,8 +98,9 @@ fviz_ca_biplot(ca_results,
 ),colour = "green", sigma = 2, expand = 1.5) + 
   geom_hline(yintercept = 0, linetype = "dashed", color = "white") +
   geom_vline(xintercept = 0, linetype = "dashed", color = "white") +
-  labs(subtitle = "Correspondence Analysis of NRC-Emotions from Letterboxed Comments (n = 16221)",
-       x = "Dim 1 (64%)", y = "Dim 2 (31%)") +
+  labs(subtitle = "Correspondence Analysis of NRC-Emotions from Letterboxed Comments (n = 16.221)",
+       x = "Dim 1 (64%)", y = "Dim 2 (31%)",
+       caption = "CC-BY Thomas Haase") +
   ggtitle("Letterboxed Comments of The Matrix Movies") +
   theme_classic(base_family = "Courier") +
   theme(
@@ -111,6 +112,7 @@ fviz_ca_biplot(ca_results,
     axis.text = element_text(size = 8, color = "white"),
     axis.line = element_line(color = "white"),
     axis.ticks = element_line(color = "white"),
+    plot.caption = element_text(size = 6, color = "green", family = "Courier"),
     legend.position = "none"
   ) +
   with_outer_glow(
@@ -120,5 +122,10 @@ fviz_ca_biplot(ca_results,
       geom_text(data = row_coords, aes(label = label, x = `Dim 1`, y = `Dim 2`), 
               color = "#00FF00", size = 5, vjust = 1.8, hjust = 0.2, family = "Courier"),
     colour = "green", sigma = 2, expand = 2
-  )
+  ) +
+  with_outer_glow(
+      geom_text(data = row_coords, aes(label = label, x = `Dim 1`, y = `Dim 2`), 
+              color = "green", size = 5, vjust = 1.8, hjust = 0.2, family = "Courier"),
+    colour = "green", sigma = 2, expand = 2
+  ) 
 
