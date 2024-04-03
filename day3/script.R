@@ -103,7 +103,7 @@ p <- ggplot(data, aes(x=IntensityLog, color=Image, fill=Image)) +
        subtitle="Log Density of Frequency Magnitudes from Fourier Transformation", 
        x="Log(Magnitude)", 
        y="Density",
-       caption="HOW TO INTERPRET: \nhigher peak --> more high frequencies --> more details/edges \nwider distribution --> variation in frequencies --> more structure/texture \nmore overlap --> more similar frequencies --> higher similarity")
+       caption="\nHELP: \nHigher Magnitude ⇒ Higher Frequency ⇒ finer details, more edges")
 
 print(p)
 
