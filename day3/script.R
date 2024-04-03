@@ -53,7 +53,7 @@ if(length(fft_m1_vector) > length(fft_m2_vector)) {
 
 data <- data.frame(
   Intensity = c(fft_m1_vector, fft_m2_vector),
-  Image = rep(c("Old Moon Image", "New Moon Image"), each=length(fft_m1_vector))
+  Image = rep(c("Old Moon Image m1", "New Moon Image m2"), each=length(fft_m1_vector))
 )
 data$IntensityLog <- log1p(data$Intensity)  # log1p is used to avoid log(0)
 
@@ -64,13 +64,13 @@ annot <- data %>%
     y = max(density(IntensityLog)$y)
   ) %>%
   mutate(label = case_when(
-    Image == "Old Moon Image" ~ "Old Moon Image",
-    Image == "New Moon Image" ~ "New Moon Image",
+    Image == "Old Moon Image m1" ~ "Old Moon Image m1",
+    Image == "New Moon Image m2" ~ "New Moon Image m2",
     TRUE ~ as.character(Image)  # Handles cases with more than two groups
   ))
 
 # Fix the color assignments
-colors <- c("Old Moon Image" = "#DC143C", "New Moon Image" = "#FFD700")
+colors <- c("Old Moon Image m1" = "#DC143C", "New Moon Image m2" = "#FFD700")
 
 # Create the plot
 p <- ggplot(data, aes(x=IntensityLog, color=Image, fill=Image)) +
@@ -120,15 +120,15 @@ moon_grob2 <- rasterGrob(as.raster(m2), interpolate=TRUE, width=unit(0.8, "inche
 p <- p
 
 # Add annotations for density peaks as placeholders for image positions
-annot_img <- data %>%
-  group_by(Image) %>%
-  summarize(x = mean(IntensityLog), y = max(density(IntensityLog)$y))
+# annot_img <- data %>%
+#   group_by(Image) %>%
+#   summarize(x = mean(IntensityLog), y = max(density(IntensityLog)$y))
 
 
-x_offset1 <- 5
+x_offset1 <- 5.5
 y_offset1 <- -0.15  
 
-x_offset2 <- 5  
+x_offset2 <- 5.5  
 y_offset2 <- -0.15 
 
 # save with width=894&height=548
@@ -136,17 +136,23 @@ picture_multiplicator <- 6.6
 
 png("moon_comparison.png", width=894*picture_multiplicator, height=548*picture_multiplicator, units = "px", res = 600)
 
+
 p + 
   annotation_custom(grob = moon_grob1, 
-                    xmin = annot$x[1] + x_offset1, 
-                    xmax = annot$x[1] + x_offset1 + 0.1,  
-                    ymin = annot$y[1] + y_offset1, 
-                    ymax = annot$y[1] + y_offset1 + 0.2) +  
+                    xmin = annot$x[2] + x_offset1, 
+                    xmax = annot$x[2] + x_offset1 + 0.1,  
+                    ymin = annot$y[2] + y_offset1, 
+                    ymax = annot$y[2] + y_offset1 + 0.2) +  
   annotation_custom(grob = moon_grob2, 
-                    xmin = annot$x[2] + x_offset2, 
-                    xmax = annot$x[2] + x_offset2 + 0.1,  
-                    ymin = annot$y[2] + y_offset2, 
-                    ymax = annot$y[2] + y_offset2 + 0.2)  
+                    xmin = annot$x[1] + x_offset2, 
+                    xmax = annot$x[1] + x_offset2 + 0.1,  
+                    ymin = annot$y[1] + y_offset2, 
+                    ymax = annot$y[1] + y_offset2 + 0.2)  
 
 dev.off()
 
+
+
+img <- image_read("moon_comparison.png")
+img_jpg <- image_convert(img, format = "jpg")
+image_write(img_jpg, "moon_comparison.jpg", quality = 50)
