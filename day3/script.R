@@ -53,7 +53,7 @@ if(length(fft_m1_vector) > length(fft_m2_vector)) {
 
 data <- data.frame(
   Intensity = c(fft_m1_vector, fft_m2_vector),
-  Image = rep(c("Old Moon Image m1", "New Moon Image m2"), each=length(fft_m1_vector))
+  Image = rep(c("Old Moon Image", "New Moon Image"), each=length(fft_m1_vector))
 )
 data$IntensityLog <- log1p(data$Intensity)  # log1p is used to avoid log(0)
 
@@ -64,13 +64,13 @@ annot <- data %>%
     y = max(density(IntensityLog)$y)
   ) %>%
   mutate(label = case_when(
-    Image == "Old Moon Image m1" ~ "Old Moon Image m1",
-    Image == "New Moon Image m2" ~ "New Moon Image m2",
+    Image == "Old Moon Image" ~ "Old Moon Image",
+    Image == "New Moon Image" ~ "New Moon Image",
     TRUE ~ as.character(Image)  # Handles cases with more than two groups
   ))
 
 # Fix the color assignments
-colors <- c("Old Moon Image m1" = "#DC143C", "New Moon Image m2" = "#FFD700")
+colors <- c("Old Moon Image" = "#DC143C", "New Moon Image" = "#FFD700")
 
 # Create the plot
 p <- ggplot(data, aes(x=IntensityLog, color=Image, fill=Image)) +
@@ -103,7 +103,7 @@ p <- ggplot(data, aes(x=IntensityLog, color=Image, fill=Image)) +
        subtitle="Log Density of Frequency Magnitudes from Fourier Transformation", 
        x="Log(Magnitude)", 
        y="Density",
-       caption="\nHELP: \nHigher Magnitude ⇒ Higher Frequency ⇒ finer details, more edges")
+       caption="\nHELP: Higher Magnitude ⇒ Higher Frequency ⇒ finer details, more edges")
 
 print(p)
 
@@ -125,10 +125,10 @@ p <- p
 #   summarize(x = mean(IntensityLog), y = max(density(IntensityLog)$y))
 
 
-x_offset1 <- 5.5
+x_offset1 <- 4.5
 y_offset1 <- -0.15  
 
-x_offset2 <- 5.5  
+x_offset2 <- 4.5  
 y_offset2 <- -0.15 
 
 # save with width=894&height=548
