@@ -33,3 +33,8 @@ When you see high frequencies being prominent in the Fourier transform of an ima
 Overlapping parts of the densities --> same frequencies are being communicated through the image --> the similar parts of the images
 
 </details>
+
+### Day 4: Comparison - Waffle
+
+<img src="day4/plot.png" width="750em">
+

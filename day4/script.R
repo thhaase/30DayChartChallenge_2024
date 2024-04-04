@@ -81,3 +81,4 @@ waffle(grob_type_counts, rows = 10, size = 0.5, colors = space_colors) +
         legend.box = "horizontal") +
   scale_fill_manual(values = space_colors, name = "Object Type", labels = grob_type_counts$grob_type)
 
+ggsave("plot.png", width = 8, height = 6, dpi = 600, bg = "white")
