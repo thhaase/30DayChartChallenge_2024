@@ -38,3 +38,6 @@ Overlapping parts of the densities --> same frequencies are being communicated t
 
 <img src="day4/plot.png" width="750em">
 
+### Day 5: Comparison - Diverging
+
+<img src="day5/plot.png" width="750em">
