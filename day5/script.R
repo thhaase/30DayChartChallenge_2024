@@ -28,7 +28,7 @@ ggplot(data_hessen, aes(x = Jahr, y = Value)) +
   geom_point(aes(color = Value), alpha=0.5, size = 3, shape = 19) +  
   geom_smooth(method = "loess", span=0.4, color = "#D55E00", size = 1.2) +
   geom_hline(yintercept = median(data_hessen$Value), color = "#009E73", size = 1) +
-  geom_text(aes(x = min(Jahr)+20, y = median(Value)+0.3, label = "Median"), color = "#009E73", hjust = 1.5, size = 5) +
+  geom_text(aes(x = min(Jahr)+75, y = median(Value)-0.2, label = "Median"), color = "#009E73", hjust = 1.5, size = 5) +
   scale_color_gradient(low = "#56B4E9", high = "red") +
   geom_vline(xintercept = 1986.8, color = "lightgrey") + 
   theme_classic(base_size = 14) +
@@ -46,3 +46,4 @@ ggplot(data_hessen, aes(x = Jahr, y = Value)) +
        y = "Temperature (°C)")
 
 ggsave("plot.png",width = 10,height = 6.5, dpi = 1000)
+

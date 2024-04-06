@@ -41,3 +41,7 @@ Overlapping parts of the densities --> same frequencies are being communicated t
 ### Day 5: Comparison - Diverging
 
 <img src="day5/plot.png" width="750em">
+
+### Day 6: Comparison - OECD (data day)
+
+<img src="day6/plot.png" width="750em">
