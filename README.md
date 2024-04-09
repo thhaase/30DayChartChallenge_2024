@@ -53,3 +53,7 @@ Overlapping parts of the densities --> same frequencies are being communicated t
 ### Day 8: Distributions - circular
 
 <img src="day8/gif.gif" width="750em">
+
+### Day 9: Distributions - Major/Minor
+
+<img src="day9/plot.png" width="750em">
