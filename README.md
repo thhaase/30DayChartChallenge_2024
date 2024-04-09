@@ -45,3 +45,11 @@ Overlapping parts of the densities --> same frequencies are being communicated t
 ### Day 6: Comparison - OECD (data day)
 
 <img src="day6/plot.png" width="750em">
+
+### Day 7: Distributions - Hazards
+
+<img src="day7/plot.png" width="750em">
+
+### Day 8: Distributions - circular
+
+<img src="day8/gif.gif" width="750em">
