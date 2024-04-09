@@ -55,7 +55,7 @@ grid <- grid.arrange(
   nrow = 2,
   heights = c(2, 1), 
   top = textGrob("Pirate Attacks", gp=gpar(fontsize=20, font=2)), 
-  bottom = textGrob("Benden, P., Feng, A., Howell, C., & Dalla Riva G. V. (2021). \nCrime at Sea: A Global Database of Maritime Pirate Attacks (1993–2020). \nJournal of Open Humanities Data, 7: 19, pp. 1–6. DOI: https://doi.org/10.5334/johd.39", 
+  bottom = textGrob("Dataset: \nBenden, P., Feng, A., Howell, C., & Dalla Riva G. V. (2021). \nCrime at Sea: A Global Database of Maritime Pirate Attacks (1993–2020). \nJournal of Open Humanities Data, 7: 19, pp. 1–6. DOI: https://doi.org/10.5334/johd.39", 
                     gp=gpar(fontsize=6))
 )
 grid
